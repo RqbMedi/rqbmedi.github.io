@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 Organizing & Leadership
-======
+------
 * ...
 
 Outreach & Volunteering
-======
+------
 * ...
 
 Selected Media Coverage
-======
+------
 * ...
