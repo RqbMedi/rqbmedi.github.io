@@ -10,7 +10,7 @@ redirect_from:
 
 Website under construction :-) !
 
-I am a PhD student at [Polytechnique Montreal](https://github.com/academicpages/academicpages.github.io) at Montreal, Canada, advised by Professors El Hallaoui Issmaïl & Soumis François... 
+I am a Ph.D. Candidate at [Polytechnique Montreal](https://github.com/academicpages/academicpages.github.io) at Montreal, Canada, advised by Professors El Hallaoui Issmaïl & Soumis François... 
 
 News
 ======
