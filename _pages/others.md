@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+I had various research and work experiences...:-)
   
 Research Experience
 ------
