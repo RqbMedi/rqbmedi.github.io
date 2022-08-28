@@ -13,7 +13,7 @@ main:
     url: /awards/
         
   - title: "Blogs"
-    url: /blogs/
+    url: /portfolio/
     
   - title: "Others"
     url: /others/
