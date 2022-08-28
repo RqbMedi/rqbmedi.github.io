@@ -6,17 +6,17 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Awards"
+    url: /awards/
+
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Awards"
-    url: /awards/
+  - title: "Experience"
+    url: /others/
         
   - title: "Blogs"
     url: /portfolio/
     
   - title: "Others"
-    url: /others/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+    url: /markdown/

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Others"
+title: "Experience"
 permalink: /others/
 author_profile: true
 redirect_from:
