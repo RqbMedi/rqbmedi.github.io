@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Er Raqabi El Mehdi"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Er Raqabi El Mehdi"
 description              : &description "Welcome to My Personal Website"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ph.D. Candidate at Poly"
+  name             : "Er Raqabi El Mehdi"
   avatar           : "Mehdi.png"
-  bio              : "Website Under Construction :-) !"
+  bio              : "Ph.D. Candidate at Poly"
   location         : "Montreal, Canada"
   employer         : 
   pubmed           : 
