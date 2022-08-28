@@ -9,11 +9,11 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Experience"
     url: /others/
+
+  - title: "Teaching"
+    url: /teaching/    
         
   - title: "Blogs"
     url: /portfolio/
