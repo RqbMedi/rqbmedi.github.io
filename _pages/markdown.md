@@ -11,7 +11,6 @@ Organizing & Leadership
 ======
 * ...
 
-
 Outreach & Volunteering
 ======
 * ...
