@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
   
-Service and leadership
+Research Experience
 ======
-* Currently signed in to 43 different slack teams
+* ...
+
+
+Work Experience
+======
+* ...
