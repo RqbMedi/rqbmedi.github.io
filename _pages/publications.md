@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Published
-======
+Research Interests: Large-scale Optimization...
 
 [Paper1](http://academicpages.github.io/files/paper1.pdf)
 ------
