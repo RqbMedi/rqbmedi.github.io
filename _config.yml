@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Er Raqabi El Mehdi"
-description              : &description "personal description"
+description              : &description "Welcome to My Personal Website"
 url                      : https://rqbmedi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RqbMedi/rqbmedi.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -84,10 +84,10 @@ author:
   avatar           : "Mehdi.png"
   bio              : "Website Under Construction :-) !"
   location         : "Montreal, Canada"
-  employer         :
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UP774ooAAAAJ&hl=en"
-  email            : 
+  email            : erraqabielmehdi@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/rqbmedi"
+  medium           : "https://erraqabielmehdi.medium.com/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
