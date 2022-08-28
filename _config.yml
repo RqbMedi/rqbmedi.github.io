@@ -84,7 +84,7 @@ author:
   avatar           : "Mehdi.png"
   bio              : "Website Under Construction :-) !"
   location         : "Montreal, Canada"
-  employer         : "Polytechnique Montreal & Gerad"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UP774ooAAAAJ&hl=en"
   email            : "erraqabielmehdi@gmail.com"
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://linkedin.com/in/rqbmedi"
   medium           : "https://erraqabielmehdi.medium.com/"
