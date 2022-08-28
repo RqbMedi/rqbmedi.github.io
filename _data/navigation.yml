@@ -8,12 +8,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "Blogs"
+    url: /blogs/    
+
   - title: "Awards"
     url: /portfolio/
-        
-  - title: "Blogs"
-    url: /blogs/
     
   - title: "Others"
     url: /others/
