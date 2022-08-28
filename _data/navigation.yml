@@ -10,10 +10,10 @@ main:
     url: /teaching/    
 
   - title: "Awards"
-    url: /blogs/    
+    url: /awards/    
 
   - title: "Blogs"
-    url: /portfolio/
+    url: /blogs/
     
   - title: "Others"
     url: /others/
