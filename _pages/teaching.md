@@ -9,7 +9,7 @@ I enjoy teaching a lot. As Richard Feynman once said: "If you want to master som
 
 **1. Polytechnique Montreal**<br>
 *Teaching Assistant*, 2021 - Present
- - MTH6406 - Modeling in Operations Research, 4 hours/week for 13 weeks, Masters and Ph.D. (Winter 2021, Winter 2022)
+ - [MTH6406](https://www.polymtl.ca/programmes/cours/modelisation-en-recherche-operationnelle) - Modeling in Operations Research, 4 hours/week for 13 weeks, Masters and Ph.D. (Winter 2021, Winter 2022)
 
 
 **2. International University of Japan**<br>
