@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Research Interests: Large-scale Optimization...
+Research Interests: Operations Research, Large-scale Optimization, Data Science, Machine Learning for Operations Research, Metaheuristics, Algorithm Configuration
 
-[Paper1](http://academicpages.github.io/files/paper1.pdf)
+Published and Under Review
 ------
-This paper is about the number 1. The number 2 is left for future work.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+**1. Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain** <br>
+**Er Raqabi El Mehdi**, Himmich Ilyas, El Hachemi Nizar, El Hallaoui Issmaïl and Soumis François <br>
+Major Revision in *Omega*, 2022
