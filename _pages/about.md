@@ -18,12 +18,15 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 ![Snowboarding in Hakkai Sanroku Niigata](http://rqbmedi.github.io/images/Snowboarding.jpeg)
 
-
 News
 ======
-- 21/10/2022: Industrial Seminar at EMI.
-
+- 21/10/2022: Invited Speaker for the Industrial Seminars at EMI.
+- 17/09/2022: Invited Speaker for the « HORIZONS » Conferences Series at [Lymed](https://www.lymed.ma/).
+- 25/07/2022: IVADO Student Portraits – [Er Raqabi El Mehdi](https://ivado.ca/en/2022/07/25/ivado-student-portraits-er-raqabi-el-mehdi/).
 
 Blogs
 ======
-- Metaheuristics
+- 28/09/2022: Metaheuristics: Favorising Time over Quality.
+- 30/08/2022: [Automatic Algorithm Configuration for Optimization Solvers](https://erraqabielmehdi.medium.com/automatic-algorithm-configuration-for-optimization-solvers-66ac3861a233).
+- 31/07/2022: [The Role of Internships in Tuning the Career Compass](https://www.linkedin.com/pulse/role-internships-tuning-career-compass-er-raqabi-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3/).
+- 29/06/2022: [The Benders Decomposition](https://erraqabielmehdi.medium.com/the-benders-decomposition-8dadf381f60c).
