@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-I had various research and work experiences...:-)
+Before reaching the current state, I have been diversifying my experiences between research and business.
   
 Research Experience
 ------
 * ...
 
 
-Work Experience
+Business Experience
 ------
 * ...
