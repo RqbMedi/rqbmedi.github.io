@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Honors & Awards
-======
+------
 
 - 2022 - GERAD Competition for Doctoral Fellowships "Conference Fees", **$1,750**, GERAD
 - 2021 - FRQNT Ph.D. Merit Scholarship, **$77,000**, FRQNT
