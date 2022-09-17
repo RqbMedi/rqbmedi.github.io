@@ -24,6 +24,6 @@ Outreach & Volunteering
 
 Selected Media Coverage
 ------
-- *[IVADO Student Portraits](https://ivado.ca/en/2022/07/25/ivado-student-portraits-er-raqabi-el-mehdi/)* - Er Raqabi El Mehdi, IVADO Institute, 2022
-- *[IUJ held its 2019 Graduation Ceremony](https://www.iuj.ac.jp/20190622-2/)*, International University of Japan, 2019
-- *[La coopération japonaise élargit son spectre](https://www.laformation.ma/actualites/3572-la-cooperation-japonaise-elargit-son-spectre.html)*, Laformation News, 2017
+- [IVADO Student Portraits- Er Raqabi El Mehdi](https://ivado.ca/en/2022/07/25/ivado-student-portraits-er-raqabi-el-mehdi/), IVADO Institute, 2022
+- [IUJ held its 2019 Graduation Ceremony](https://www.iuj.ac.jp/20190622-2/), International University of Japan, 2019
+- [La coopération japonaise élargit son spectre](https://www.laformation.ma/actualites/3572-la-cooperation-japonaise-elargit-son-spectre.html), Laformation News, 2017
