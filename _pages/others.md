@@ -12,7 +12,7 @@ Before reaching the current state, I have been diversifying my experiences betwe
 Research Experience
 ------
 **1. Groupe d’études et de recherche en analyse des décisions (Gerad) Montreal, Canada**<br>
-Research Assistant, 2020 - Present
+Research Assistant (Full Time), 2020 - Present
  - Advisors: Profs. El Hallaoui Issmaïl & Soumis François
  - Research Areas: Operations Research, Large-Scale Optimization, Decompositions, Metaheuristics, Solvers, Data Science, Machine Learning for Operations Research
  - Applications: Airline, Mining, Transportation, Operations and Supply Chain Management
@@ -20,7 +20,7 @@ Research Assistant, 2020 - Present
  - Location: Montreal, Canada
 
 **2. International University of Japan**<br>
-Research Project, 2018 - 2019
+Research Project (Full Time), 2018 - 2019
  - Advisor: Prof. Li Wenkai
  - Research Areas: Operations Research, Transportation, Electric Vehicles
  - Collaboration with Fostergy Technologies Inc.
