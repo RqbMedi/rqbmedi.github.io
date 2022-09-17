@@ -11,7 +11,7 @@ Before reaching the current state, I have been diversifying my experiences betwe
   
 Research Experience
 ------
-**1. Groupe d’études et de recherche en analyse des décisions (Gerad) Montreal, Canada**
+**1. Groupe d’études et de recherche en analyse des décisions (Gerad) Montreal, Canada**<br>
 Research Assistant, 2020 - Present
  - Advisors: Profs. El Hallaoui Issmaïl & Soumis François
  - Research Areas: Operations Research, Large-Scale Optimization, Decompositions, Metaheuristics, Solvers, Data Science, Machine Learning for Operations Research
@@ -19,7 +19,7 @@ Research Assistant, 2020 - Present
  - Collaborations with OCP, UM6P, Laminaar, and IVADO
  - Location: Montreal, Canada
 
-**2. International University of Japan**
+**2. International University of Japan**<br>
 Research Project, 2018 - 2019
  - Advisor: Prof. Li Wenkai
  - Research Areas: Operations Research, Transportation, Electric Vehicles
@@ -28,4 +28,42 @@ Research Project, 2018 - 2019
 
 Business Experience
 ------
-* ...
+
+
+**1. Fostergy Technologies Inc.**<br>
+Operational Researcher & Data Scientist (Part Time), 2017 - 2019
+ - Designing efficient and effective selection of the appropriate electric vehicle components and prediction of its behavior over different kinds of routes/duty cycles and over a huge number of parameters’ choices
+ - Enhancing user’s simulation capability and reducing development time many folds
+ - Location: Niigata, Japan
+
+**2. ProQuest Japan**<br>
+Systems Engineering Intern (Part Time), Fall 2018
+ - Promoting of the on-line ProQuest’s product training
+ - Planning, Designing, and Implementing the use of databases and the conduct of research within IUJ Library
+ - Location: Yokohama, Japan
+
+**3. Japan Space Systems** <br>
+ - Tackling global issues as well as sustainable development using remote sensing and GIS data utilization skills in developing countries
+ - Practical application to water shortage, natural disasters, etc.
+ - Location: Tokyo, Japan
+
+**4. Induproj**<br>
+Quality & Safety Manager (Full Time), 2016 - 2017
+ - Leading quality management through the international standard ISO 9001, quality control of the work done on the construction sites, and quality assurance into which I was dealing with customers’ requirements and seeking their satisfaction
+ - Leading safety management through the standard OHSAS 18001 and safety control of all the work done on the construction sites. Achieved the main safety KPI of 0 accident
+ - Location: El Jadida, Morocco
+
+**5. Bombardier**<br>
+Operations Management Intern (Full Time), Spring 2016
+ - Designing and implementing an Automated Production System (APS) for assembly lines monitoring
+ - Introducing Data mining for knowledge extraction
+ - Location: Casablanca, Morocco
+
+**6. Managem Group** 
+Industrial Challenge (Full Time) Summer 2015
+ - Modeling and Simulating the Silver Treatment Plant at SMI
+ - Mapping of Ag rocks flows at SMI
+ - Location: Tinghir, Morocco
+
+
+
