@@ -8,15 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Website under construction :-) !
-
 I am a Ph.D. Candidate at [Polytechnique Montreal](https://github.com/academicpages/academicpages.github.io) at Montreal, Canada, advised by Professors El Hallaoui Issmaïl & Soumis François... 
+
+Prior to Poly...
+
+I also hold...
+
+My Curriculum Vitae can be found here.
+
 
 News
 ======
-...
+- 21/10/2022: Industrial Seminar at EMI.
 
 
 Blogs
 ======
-...
+- Metaheuristics
