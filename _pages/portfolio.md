@@ -5,4 +5,4 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-I like writing blogs where I share insights and experiences...:-)
+I like writing blogs where I share insights and experiences. Below are my Medium & LinkedIn blogs.
