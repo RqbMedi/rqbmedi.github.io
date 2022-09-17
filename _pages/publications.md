@@ -7,7 +7,7 @@ author_profile: true
 
 Research Interests: Operations Research, Large-scale Optimization, Data Science, Machine Learning for Operations Research, Metaheuristics, Algorithm Configuration
 
-Published and Under Review (*: Equal Contribution)
+Published and Under Review
 ------
 
 **1. Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain**
@@ -34,3 +34,6 @@ Working Paper
 **5. A Column Generation Framework for the Tail Assignment Problem with Operational Maintenance Constraints**
  - Authors: Sambrekar Akash, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl 
  - Soon to be submitted, 2022
+
+<br>
+(*: Equal Contribution)
