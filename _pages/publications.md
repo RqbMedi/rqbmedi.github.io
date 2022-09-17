@@ -25,7 +25,7 @@ Published and Under Review
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai, 
  - Submitted to *Transportation Research Part D: Transport and Environment*, 2022
 
-Working Paper
+Working Papers
 ------
 **4.The Primal Benders Decomposition** 
  - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
