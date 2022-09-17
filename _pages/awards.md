@@ -23,5 +23,5 @@ Honors & Awards
 - 2018 - First Year Special Recognition, Top 1% MBA Batch, IUJ
 - 2017 - ABE Initiative Scholarship, **$120,000**, Japan International Cooperation Agency
 - 2016 - Third Year Valedictorian, Distinction, EMI
-- 2015 - EMI Industrial Challenge, **$2000**, EMI
+- 2015 - EMI Industrial Challenge, **$2,000**, EMI
 - 2013 - Grand Admis National Entrance Exam, Top 5% Applicants, Preparatory Classes
