@@ -7,6 +7,8 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
+During my curriculum, I have been generously supported by various entities including universities, governmental institutions, and private organizations. This support is deeply appreciated.
+
 Honors & Awards
 ------
 
