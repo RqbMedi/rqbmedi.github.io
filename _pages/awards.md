@@ -7,6 +7,9 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
+Honors & Awards
+------
+
 - GERAD Competition for Doctoral Fellowships ”Conference Fees”, $1,750, GERAD, 2022
 - FRQNT Ph.D. Merit Scholarship, $77,000, FRQNT, 2021
 - IVADO Ph.D. Excellence Scholarship, $75,000, IVADO Institute, 2021
