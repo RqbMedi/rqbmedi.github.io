@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-I enjoy participating in conferences...:-)
-
 Conferences
 ======
 
