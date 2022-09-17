@@ -16,6 +16,8 @@ I also hold a master's degree in industrial engineering from [Ecole Mohammadia d
 
 My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
+![image info](./images/Snowboarding.jpeg)
+
 
 News
 ======
