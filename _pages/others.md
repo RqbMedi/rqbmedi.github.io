@@ -66,19 +66,19 @@ Industrial Challenge (Full Time), Summer 2015
  - Mapping of Ag rocks flows at SMI
  - Location: Tinghir, Morocco
 
- **7. Société Nouvelles de Volailles** 
+ **7. Société Nouvelles de Volailles**<br>  
 Industrial Challenge (Full Time), Summer 2015
  - Motion and time study within the factory
  - Programming an application for company's KPI monitoring
  - Location: Temara, Morocco
 
- **8. Caisse de Dépôt et de Gestion** 
+ **8. Caisse de Dépôt et de Gestion**<br>  
 Project Management Internship (Part Time), Winter 2015
  - Study and Comprehension of international projects management references such as PMBOK and Prince2
  - Analysis of a strategic PMO within CDG based on international projects management standards
  - Location: Rabat, Morocco
 
- **9. Sogea-Satom**
+ **9. Sogea-Satom**<br> 
  Operator Internship (Full Time), Summer 2014
  - Working as an Operator in a Sheet-metal Workshop.
  - Implementation of a 5S tools in the plant SBK.
