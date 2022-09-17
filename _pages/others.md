@@ -43,6 +43,7 @@ Systems Engineering Intern (Part Time), Fall 2018
  - Location: Yokohama, Japan
 
 **3. Japan Space Systems** <br>
+Remote Sensing and GIS Intern (Full Time), September 2018
  - Tackling global issues as well as sustainable development using remote sensing and GIS data utilization skills in developing countries
  - Practical application to water shortage, natural disasters, etc.
  - Location: Tokyo, Japan
@@ -59,11 +60,27 @@ Operations Management Intern (Full Time), Spring 2016
  - Introducing Data mining for knowledge extraction
  - Location: Casablanca, Morocco
 
-**6. Managem Group** 
-Industrial Challenge (Full Time) Summer 2015
+**6. Managem Group**<br> 
+Industrial Challenge (Full Time), Summer 2015
  - Modeling and Simulating the Silver Treatment Plant at SMI
  - Mapping of Ag rocks flows at SMI
  - Location: Tinghir, Morocco
 
+ **7. Société Nouvelles de Volailles** 
+Industrial Challenge (Full Time), Summer 2015
+ - Motion and time study within the factory
+ - Programming an application for company's KPI monitoring
+ - Location: Temara, Morocco
 
+ **8. Caisse de Dépôt et de Gestion** 
+Project Management Internship (Part Time), Winter 2015
+ - Study and Comprehension of international projects management references such as PMBOK and Prince2
+ - Analysis of a strategic PMO within CDG based on international projects management standards
+ - Location: Rabat, Morocco
+
+ **9. Sogea-Satom**
+ Operator Internship (Full Time), Summer 2014
+ - Working as an Operator in a Sheet-metal Workshop.
+ - Implementation of a 5S tools in the plant SBK.
+ - Location: Kenitra, Morocco
 
