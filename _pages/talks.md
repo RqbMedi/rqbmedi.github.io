@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-I do enjoy giving talks and participating in conferences a lot.
+I do enjoy giving talks and participating in conferences.
 
 Conferences
 ------
