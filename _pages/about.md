@@ -14,7 +14,7 @@ Prior to Poly, I obtained an MBA from [International University of Japan](https:
 
 I also hold a master's degree in industrial engineering from [Ecole Mohammadia d'Ingénieurs](https://www.emi.ac.ma/) (EMI). 
 
-My Curriculum Vitae can be found [here](http://academicpages.github.io/files/CV.pdf).
+My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 
 News
