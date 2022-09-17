@@ -27,7 +27,7 @@ Blogs
 - 28/09/2022: Metaheuristics: Favorising Time over Quality.
 - 30/08/2022: [Automatic Algorithm Configuration for Optimization Solvers](https://erraqabielmehdi.medium.com/automatic-algorithm-configuration-for-optimization-solvers-66ac3861a233).
 - 31/07/2022: [The Role of Internships in Tuning the Career Compass](https://www.linkedin.com/pulse/role-internships-tuning-career-compass-er-raqabi-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3/).
-- 29/06/2022: [The Benders Decomposition](https://erraqabielmehdi.medium.com/the-benders-decomposition-8dadf381f60c).
+- 29/06/2022: [The Benders Decomposition](https://erraqabielmehdi.medium.com/the-benders-decomposition-8dadf381f60c). <br>
 More Blogs can be found [here](https://rqbmedi.github.io/portfolio/). 
 
 ![Snowboarding in Hakkai Sanroku Niigata](http://rqbmedi.github.io/images/Snowboarding.jpeg)
