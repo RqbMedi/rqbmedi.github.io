@@ -25,3 +25,5 @@ Honors & Awards
 - 2016 - Third Year Valedictorian, Distinction, EMI
 - 2015 - EMI Industrial Challenge, **$2,000**, EMI
 - 2013 - Grand Admis National Entrance Exam, Top 5% Applicants, Preparatory Classes
+
+![Valedictorian Speech](http://rqbmedi.github.io/images/3_Valedictorian_Speech.jpeg)
