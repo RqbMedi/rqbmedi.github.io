@@ -26,4 +26,6 @@ Honors & Awards
 - 2015 - EMI Industrial Challenge, **$2,000**, EMI
 - 2013 - Grand Admis National Entrance Exam, Top 5% Applicants, Preparatory Classes
 
+![Bourses_Canada](http://rqbmedi.github.io/images/12_Bourses_Canada.jpg)
+
 ![Valedictorian Speech](http://rqbmedi.github.io/images/3_Valedictorian_Speech.jpeg)
