@@ -27,3 +27,5 @@ I like writing blogs where I share insights and experiences. Below are my Medium
 [<img src="http://rqbmedi.github.io/images/Medium_Article_06.png" width="400" height="400" />](https://medium.com/swlh/operations-research-learning-5fafaae0494c) &nbsp; &nbsp; &nbsp; &nbsp; [<img src="http://rqbmedi.github.io/images/LinkedIn_Article_10.png" width="400" height="400" />](https://www.linkedin.com/pulse/every-small-step-counts-er-raqabi-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3/)
 
 [<img src="http://rqbmedi.github.io/images/Medium_Article_05.png" width="400" height="400" />](https://erraqabielmehdi.medium.com/montreal-the-column-generation-capital-51c0b22e8a78) &nbsp; &nbsp; &nbsp; &nbsp; [<img src="http://rqbmedi.github.io/images/LinkedIn_Article_09.png" width="400" height="400" />](https://www.linkedin.com/pulse/feeding-vision-focus-execution-consistency-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3/)
+
+[<img src="http://rqbmedi.github.io/images/Medium_Article_04.png" width="400" height="400" />](https://medium.com/swlh/non-convex-optimization-in-deep-learning-26fa30a2b2b3) &nbsp; &nbsp; &nbsp; &nbsp;
