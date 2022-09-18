@@ -83,4 +83,3 @@ Project Management Internship (Part Time), Winter 2015
  - Working as an Operator in a Sheet-metal Workshop.
  - Implementation of a 5S tools in the plant SBK.
  - Location: Kenitra, Morocco
-
