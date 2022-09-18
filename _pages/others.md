@@ -84,4 +84,6 @@ Project Management Internship (Part Time), Winter 2015
  - Implementation of a 5S tools in the plant SBK.
  - Location: Kenitra, Morocco
 
- ![Gerad Entry](http://rqbmedi.github.io/images/13_Gerad_Entry.jpeg)
+![Gerad Entry](http://rqbmedi.github.io/images/13_Gerad_Entry.jpg)
+
+![Induproj](http://rqbmedi.github.io/images/14_Induproj.jpg)
