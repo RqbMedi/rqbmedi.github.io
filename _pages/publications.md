@@ -27,7 +27,7 @@ Published & Under Review
 
 Working Papers
 ------
-**4.The Primal Benders Decomposition** 
+**4. The Primal Benders Decomposition** 
  - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
  - Soon to be submitted, 2022
 
