@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Er Raqabi El Mehdi"
 description              : &description "Welcome to My Personal Website"
