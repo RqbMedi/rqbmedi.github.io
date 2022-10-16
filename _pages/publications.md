@@ -38,7 +38,7 @@ Working Papers
  - Authors: Sambrekar Akash, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl 
  - Soon to be submitted, 2022
 
-**7. OCP Optimizes its Global Supply Chain for Humanity **
+**7. OCP Optimizes its Global Supply Chain for Humanity**
  - Authors: **Er Raqabi El Mehdi** et al.
  - Soon to be submitted, 2022
 
