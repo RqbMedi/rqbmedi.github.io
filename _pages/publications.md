@@ -20,7 +20,7 @@ Published & Under Review
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - Major Revision in *Computers & Operations Research*, 2022
 
-**3. An Electric Vehicle Migration Framework for Public Fleet Planning**
+**3. [An Electric Vehicle Migration Framework for Public Fleet Planning](https://www.iuj.ac.jp/research/workingpapers/EMS_2022_03.pdf)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
  - Submitted to *Transportation Research Part D: Transport and Environment*, 2022
 
