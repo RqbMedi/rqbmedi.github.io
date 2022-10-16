@@ -35,7 +35,7 @@ Working Papers
  - Soon to be submitted, 2022
 
 **6. A Column Generation Framework for the Tail Assignment Problem with Operational Maintenance Constraints**
- - Authors: Sambrekar Akash, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl 
+ - Authors: Sambrekar Akash*, **Er Raqabi El Mehdi*** and El Hallaoui Issmaïl 
  - Soon to be submitted, 2022
 
 **7. OCP Optimizes its Global Supply Chain for Humanity**
