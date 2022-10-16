@@ -15,7 +15,7 @@ Published & Under Review
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - Major Revision in *Omega*, 2022
 
-**2. MPILS: An Automatic Tuner for MILP Solvers** 
+**2. [MPILS: An Automatic Tuner for MILP Solvers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4047072)** 
  - Authors: Himmich Ilyas∗, **Er Raqabi El Mehdi**∗, El Hachemi Nizar, El Hallaoui Issmaïl, Metrane Abdelmoutalib and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - Major Revision in *Computers & Operations Research*, 2022
