@@ -24,7 +24,7 @@ Published & Under Review
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai, 
  - Submitted to *Transportation Research Part D: Transport and Environment*, 2022
 
-**4. [An Electric Vehicle Migration Framework](https://econpapers.repec.org/paper/iujwpaper/ems_5f2022_5f03.htm)**
+**4. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai, 
  - Master’s Thesis, International University of Japan, 2019
 
