@@ -28,8 +28,6 @@ Research Project (Full Time), 2018 - 2019
 
 Business Experience
 ------
-
-
 **1. Fostergy Technologies Inc.**<br>
 Operational Researcher & Data Scientist (Part Time), 2017 - 2019
  - Designing efficient and effective selection of the appropriate electric vehicle components and prediction of its behavior over different kinds of routes/duty cycles and over a huge number of parameters’ choices
