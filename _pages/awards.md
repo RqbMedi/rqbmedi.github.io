@@ -16,6 +16,8 @@ Honors & Awards
 - 2021 - FRQNT Ph.D. Merit Scholarship, **$77,000**, FRQNT
 - 2021 - IVADO Ph.D. Excellence Scholarship, **$75,000**, IVADO Institute
 - 2021 - Vanier Canada Graduate Scholarship (“Waitlisted”), **$150,000**, Government of Canada
+- 2020 - OCP Group Fellowship, **$30,000**, OCP Group 
+- 2020 - Increased Tuition Fees Exemption, **$25,000**, Polytechnique Montreal
 - 2019 - James Brian Quinn Scholar, MBA Batch Valedictorian, IUJ
 - 2019 - Beta Gamma Sigma Academic Honor Society, Top 1% MBA Batch, IUJ
 - 2019 - Valedictorian Speech, IUJ Graduation Ceremony, IUJ
