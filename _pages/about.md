@@ -16,6 +16,10 @@ Hi, I am Mehdi. I have been learning, evolving, and growing up in Three Countrie
 
 <img alt="Morocco" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/MA.svg" width="22" height="22"/> **The Kingdom of The Western Place.** I also hold a master's degree in industrial engineering from Ecole Mohammadia d'Ingénieurs ([EMI](https://www.emi.ac.ma/)). 
 
+I have been also 
+
+<img alt="Canada" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Kangaroos.** 
+
 My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
