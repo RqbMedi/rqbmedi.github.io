@@ -18,7 +18,7 @@ Hi, I am Mehdi. I have been learning, evolving, and growing up in Three Countrie
 
 I have been also 
 
-<img alt="Canada" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Kangaroos.** 
+<img alt="Australia" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Kangaroos.** 
 
 My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
