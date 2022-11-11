@@ -14,6 +14,8 @@ redirect_from:
 
 <img alt="Morocco" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/MA.svg" width="22" height="22"/> **The Kingdom of The Western Place.** I also hold a master's degree in industrial engineering from Ecole Mohammadia d'Ingénieurs ([EMI](https://www.emi.ac.ma/)). 
 
+I have been growing up, learning, and evolving in Three Countries on Three Continents. In Morocco, I confirmed the Value of Believing. In Japan, I understood the Value of Hardwork. In Canada, I witnessed the Value of Consistency. I am very grateful to these dear countries :-) !
+
 My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
