@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Mehdi. I have been learning, evolving, and growing up in Four Countries on Four Continents. In my beloved country Morocco, I acquired the Value of Believing. In Japan, I understood the Value of Hardwork. In Canada, I witnessed the Value of Excellence. In Australia, I confirmed the Value of Consistency. I am very grateful to these dear countries :-) !
+Hi, I am Mehdi. I have been learning, evolving, and growing up in Three Countries on Three Continents. In my beloved country Morocco, I acquired the Value of Believing. In Japan, I understood the Value of Hardwork. In Canada, I witnessed the Value of Excellence. I am very grateful to these dear countries :-) !
+
+[comment]: <> (Update: Four Countries on Four Continents. In Australia, I confirmed the Value of Consistency.)
 
 <img alt="Australia" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Kangaroos.** Loading... 
 
