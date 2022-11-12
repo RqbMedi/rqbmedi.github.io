@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, I am Mehdi. I have been learning, evolving, and growing up in Four Countries on Four Continents. In my beloved country Morocco, I acquired the Value of Believing. In Japan, I understood the Value of Hardwork. In Canada, I witnessed the Value of Excellence. In Australia, I confirmed the Value of Consistency. I am very grateful to these dear countries :-) !
 
-<img alt="Australia" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Kangaroos.** Loading...
+<img alt="Australia" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Kangaroos.** Loading... 
 
-#For Australia put (<1 Year)
+[comment]: <> (For Australia put <1 Year)
 
 <img alt="Canada" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/CA.svg" width="22" height="22"/> **The Land of The Maple Leaf (>3 Years).** I am a Ph.D. Candidate at the Applied Mathematics Department of Polytechnique Montreal ([Poly](https://www.polymtl.ca/)) and the Groupe d'Études et de Recherche en Analyse des Décisions ([Gerad](https://www.gerad.ca/en)), advised by Professors [El Hallaoui Issmaïl](https://www.polymtl.ca/expertises/el-hallaoui-issmail) & [Soumis François](https://www.polymtl.ca/expertises/soumis-francois). I specialize in large-scale optimization from several perspectives: *solver* (commercial, open-source, etc.), *metaheuristics* (local search, simulated annealing, etc.), *exact* (decompositions, branch-and-price, etc.), and *learning* (supervised, unsupervised, etc.). My Research is generously supported by the Fonds de recherche du Québec - Nature et Technologie ([FRQNT](https://frq.gouv.qc.ca/en/)), the Institut de Valorisation des Données ([IVADO](https://ivado.ca/en/)), and the [OCP Group](https://www.ocpgroup.ma/). 
 
