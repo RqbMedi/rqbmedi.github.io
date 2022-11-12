@@ -12,7 +12,7 @@ Hi, I am Mehdi. I have been learning, evolving, and growing up in Three Countrie
 
 [comment]: <> (Update: Four Countries on Four Continents. In Australia, I confirmed the Value of Consistency.)
 
-<img alt="Australia" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Kangaroos.** Loading... 
+[comment]: <> (<img alt="Australia" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Kangaroos.** Loading...) 
 
 [comment]: <> (For Australia put <1 Year)
 
