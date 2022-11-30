@@ -39,7 +39,7 @@ Operational Researcher & Data Scientist (Part Time), 2017 - 2019
 Systems Engineering Intern (Part Time), Fall 2018
  - Promoting of the on-line ProQuest’s product training
  - Planning, designing, and implementing the use of databases and the conduct of research within IUJ Library
- - Industry: Information & Data Provider
+ - Industry: Information & Data Provision
  - Location: Yokohama, Japan
 
 **3. Japan Space Systems** <br>
