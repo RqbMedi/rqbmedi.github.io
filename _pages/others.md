@@ -16,7 +16,7 @@ Research Assistant (Full Time), 2020 - Present
  - Advisors: Profs. El Hallaoui Issmaïl & Soumis François
  - Research Areas: Operations Research, Large-Scale Optimization, Decompositions, Metaheuristics, Solvers, Data Science, Machine Learning for Operations Research
  - Applications: Airline, Mining, Transportation, Operations and Supply Chain Management
- - Collaborations with OCP, UM6P, Laminaar, and IVADO
+ - Collaborations with OCP Group, UM6P, Laminaar, and IVADO
  - Location: Montreal, Canada
 
 **2. International University of Japan**<br>
