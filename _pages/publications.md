@@ -22,7 +22,7 @@ Published & Under Review
 
 **3. [An Electric Vehicle Migration Framework for Public Fleet Planning](https://www.iuj.ac.jp/research/workingpapers/EMS_2022_03.pdf)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
- - Major Revision in *Transportation Research Part D: Transport and Environment*, 2022
+ - Minor Revision in *Transportation Research Part D: Transport and Environment*, 2022
 
 **4. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
