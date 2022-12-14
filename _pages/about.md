@@ -27,7 +27,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 News
 ======
 - 14/12/2022: Our Paper "*Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain*" was accepted by Journal **Omega**.
-- 10/12/2022: Morocco reached the World Cup 2022 Semi-Finals.
+- 10/12/2022: **History - Morocco reached the World Cup 2022 Semi-Finals**.
 - 21/10/2022: Invited Speaker for the Industrial Seminars at EMI.
 - 17/09/2022: Invited Speaker for the « HORIZONS » Conferences Series at [Lymed](https://www.lymed.ma/).
 - 25/07/2022: IVADO Student Portraits – [Er Raqabi El Mehdi](https://ivado.ca/en/2022/07/25/ivado-student-portraits-er-raqabi-el-mehdi/).
