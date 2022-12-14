@@ -13,7 +13,7 @@ Published & Under Review
 **1. Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain**
  - Authors: **Er Raqabi El Mehdi**, Himmich Ilyas, El Hachemi Nizar, El Hallaoui Issmaïl and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
- - Minor Revision in *Omega*, 2022
+ - Accepted in *Omega*, 2022
 
 **2. [MPILS: An Automatic Tuner for MILP Solvers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4047072)** 
  - Authors: Himmich Ilyas∗, **Er Raqabi El Mehdi**∗, El Hachemi Nizar, El Hallaoui Issmaïl, Metrane Abdelmoutalib and Soumis François
