@@ -26,7 +26,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ======
-- 14/12/2022: Our Paper "*Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain*" was accepted to Journal **Omega**.
+- 14/12/2022: Our Paper "Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain" was **accepted** to Journal *Omega*.
 - 10/12/2022: **Historic - Morocco reached the FIFA World Cup 2022 Semi-Finals**.
 - 21/10/2022: Invited Speaker for the Industrial Seminars at EMI.
 - 17/09/2022: Invited Speaker for the « HORIZONS » Conferences Series at [Lymed](https://www.lymed.ma/).
