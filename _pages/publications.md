@@ -10,7 +10,7 @@ author_profile: true
 Published & Under Review
 ------
 
-**1. Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain**
+**1. [Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain](https://www.sciencedirect.com/science/article/pii/S0305048322002274)**
  - Authors: **Er Raqabi El Mehdi**, Himmich Ilyas, El Hachemi Nizar, El Hallaoui Issmaïl and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - **Published** in *Omega*, 2022
