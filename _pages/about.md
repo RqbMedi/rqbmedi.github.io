@@ -34,6 +34,7 @@ News
 
 Blogs
 ======
+- 28/12/2022: World Cup 2022: Between Predicted & Actual Outcomes
 - 22/11/2022: [Beyond Classical Optimization Paradigms: Robustness, Fairness & Others](https://erraqabielmehdi.medium.com/beyond-classical-optimization-paradigms-robustness-fairness-others-dce754836c0d)
 - 31/10/2022: [Organization, Prioritization, Consistency & Patience: Keys for Hectic Schedules](https://www.linkedin.com/pulse/organization-prioritization-consistency-patience-keys-er-raqabi/?trackingId=SwNT9X4wQ6%2BXu%2FHBCCnE8A%3D%3D)
 - 28/09/2022: [Metaheuristics: Favorising Time over Quality](https://erraqabielmehdi.medium.com/metaheuristics-favorising-time-over-quality-1c0c7a68fa37)
