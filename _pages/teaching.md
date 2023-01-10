@@ -9,7 +9,7 @@ I enjoy teaching a lot. As Richard Feynman once said: "If you want to master som
 
 Teaching Assistant
 ------
- - [MTH6406](https://www.polymtl.ca/programmes/cours/modelisation-en-recherche-operationnelle) - Modeling in Operations Research, 4 hours/week for 13 weeks, Masters and Ph.D. (Winter 2021, Winter 2022)
+ - [MTH6406](https://www.polymtl.ca/programmes/cours/modelisation-en-recherche-operationnelle) - Modeling in Operations Research, 4 hours/week for 13 weeks, Masters and Ph.D. (Winter 2021, Winter 2022, Winter 2023)
  - OPR1010 - Operations Management, 3 hours/week for 12 weeks, Masters (Winter 2019)
  - QIS1070 - Computer-based Decision Modeling, 3 hours/week for 12 weeks, Masters (Fall 2018)
  - QIS1020 - Applied Statistics, 3 hours/week for 12 weeks, Masters (Fall 2018)<br>
