@@ -42,4 +42,6 @@ Blogs
 - 29/06/2022: [The Benders Decomposition](https://erraqabielmehdi.medium.com/the-benders-decomposition-8dadf381f60c) <br>
 - More Blogs can be found [here](https://rqbmedi.github.io/portfolio/). 
 
-![Snowboarding in Hakkai Sanroku Niigata](http://rqbmedi.github.io/images/Snowboarding.jpeg)
+[comment]:<> (![Snowboarding in Hakkai Sanroku Niigata](http://rqbmedi.github.io/images/Snowboarding.jpeg)
+
+![Four Countries Four Continents](http://rqbmedi.github.io/images/MAP.jpeg)
