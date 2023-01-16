@@ -43,4 +43,6 @@ Selected Media Coverage
 
 ![Soccer Tournament](http://rqbmedi.github.io/images/9_Soccer_Tournament_Champions.jpeg)
 
+![Snowboarding in Hakkai Sanroku Niigata](http://rqbmedi.github.io/images/Snowboarding.jpeg)
+
 ![IUJ Welcome Ceremony](http://rqbmedi.github.io/images/11_IUJ_Welcome_Ceremony.jpeg)
