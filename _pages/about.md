@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Mehdi. I have been learning, evolving, and growing up in Three Countries on Three Continents. In my beloved country Morocco, I acquired the Value of Believing. In Japan, I understood the Value of Hardwork. In Canada, I witnessed the Value of Excellence. I am very grateful to these dear countries :-) !
+Hi, I am Mehdi. I have been learning, evolving, and growing up in Four Countries on Four Continents. In my beloved country Morocco, I acquired the Value of Believing. In Japan, I understood the Value of Hardwork. In Canada, I witnessed the Value of Excellence. In Australia, I am looking forward to confirming the Value of Consistency. I am very grateful to these dear countries :-) !
 
 [comment]: <> (Update: Four Countries on Four Continents. In Australia, I confirmed the Value of Consistency.)
 
@@ -41,7 +41,5 @@ Blogs
 - 31/07/2022: [The Role of Internships in Tuning the Career Compass](https://www.linkedin.com/pulse/role-internships-tuning-career-compass-er-raqabi-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3/)
 - 29/06/2022: [The Benders Decomposition](https://erraqabielmehdi.medium.com/the-benders-decomposition-8dadf381f60c) <br>
 - More Blogs can be found [here](https://rqbmedi.github.io/portfolio/). 
-
-[comment]:<> (![Snowboarding in Hakkai Sanroku Niigata](http://rqbmedi.github.io/images/Snowboarding.jpeg)
 
 ![Four Countries Four Continents](http://rqbmedi.github.io/images/MAP.jpeg)
