@@ -13,16 +13,16 @@ Published & Under Review
 **1. [Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain](https://www.sciencedirect.com/science/article/pii/S0305048322002274)**
  - Authors: **Er Raqabi El Mehdi**, Himmich Ilyas, El Hachemi Nizar, El Hallaoui Issmaïl and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
- - **Published** in *Omega*, 2022
+ - **Published** in *Omega*, 2023
 
 **2. [MPILS: An Automatic Tuner for MILP Solvers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4047072)** 
  - Authors: Himmich Ilyas∗, **Er Raqabi El Mehdi**∗, El Hachemi Nizar, El Hallaoui Issmaïl, Metrane Abdelmoutalib and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
- - **Major Revision** in *Computers & Operations Research*, 2022
+ - **Major Revision** in *Computers & Operations Research*, 2023
 
 **3. [An Electric Vehicle Migration Framework for Public Fleet Planning](https://www.iuj.ac.jp/research/workingpapers/EMS_2022_03.pdf)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
- - **Minor Revision** in *Transportation Research Part D: Transport and Environment*, 2022
+ - **Minor Revision** in *Transportation Research Part D: Transport and Environment*, 2023
 
 **4. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
@@ -32,15 +32,15 @@ Working Papers
 ------
 **5. The Primal Benders Decomposition** 
  - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
- - Soon to be submitted, 2022
+ - Soon to be submitted, 2023
 
 **6. A Column Generation Framework for the Tail Assignment Problem with Operational Maintenance Constraints**
  - Authors: Sambrekar Akash, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl 
- - Soon to be submitted, 2022
+ - Soon to be submitted, 2023
 
 **7. OCP Optimizes its Supply Chain for Africa**
  - Authors: **Er Raqabi El Mehdi** et al.
- - Soon to be submitted, 2022
+ - Soon to be submitted, 2023
 
 <br>
 (*: Equal Contribution)
