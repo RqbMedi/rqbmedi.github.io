@@ -11,7 +11,15 @@ Before reaching the current state, I have been diversifying my experiences betwe
   
 Research Experience
 ------
-**1. Groupe d’études et de recherche en analyse des décisions (Gerad) Montreal, Canada**<br>
+**1. Griffith Business School (GBS)**<br>
+Visiting Scholar (Full Time), 2023 - Present
+ - Advisors: Prof. Yong Wu
+ - Research Areas: Operations Research, Re-optimization, Resilience, Supply Chain Management, Machine Learning for Operations Research
+ - Applications: Mining, Operations and Supply Chain Management
+ - Collaborations with OCP Group and UM6P
+ - Location: Gold Coast, Australia
+
+**2. Groupe d’études et de recherche en analyse des décisions (Gerad)**<br>
 Research Assistant (Full Time), 2020 - Present
  - Advisors: Profs. El Hallaoui Issmaïl & Soumis François
  - Research Areas: Operations Research, Large-Scale Optimization, Decompositions, Metaheuristics, Solvers, Data Science, Machine Learning for Operations Research
@@ -19,7 +27,7 @@ Research Assistant (Full Time), 2020 - Present
  - Collaborations with OCP Group, UM6P, Laminaar, and IVADO
  - Location: Montreal, Canada
 
-**2. International University of Japan**<br>
+**3. International University of Japan**<br>
 Research Project (Full Time), 2018 - 2019
  - Advisor: Prof. Li Wenkai
  - Research Areas: Operations Research, Transportation, Electric Vehicles
