@@ -13,13 +13,13 @@ Published & Under Review
 **1. [Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain](https://www.sciencedirect.com/science/article/pii/S0305048322002274)**
  - Authors: **Er Raqabi El Mehdi**, Himmich Ilyas, El Hachemi Nizar, El Hallaoui Issmaïl and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
- - Part of the Finalist Project *OCP Optimizes its Supply Chain for Africa*
+ - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Published** in *Omega*, 2023
 
 **2. [MPILS: An Automatic Tuner for MILP Solvers](https://www.gerad.ca/en/papers/G-2022-53)** 
  - Authors: Himmich Ilyas∗, **Er Raqabi El Mehdi**∗, El Hachemi Nizar, El Hallaoui Issmaïl, Metrane Abdelmoutalib and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
- - Part of the Finalist Project *OCP Optimizes its Supply Chain for Africa*
+ - Part of the Finalist Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Major Revision** in *Computers & Operations Research*, 2023
 
 **3. OCP Optimizes its Supply Chain for Africa**
@@ -40,7 +40,7 @@ Working Papers
 ------
 **6. The Primal Benders Decomposition** 
  - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
- - Part of the Finalist Project *OCP Optimizes its Supply Chain for Africa*
+ - Part of the Finalist Project "*OCP Optimizes its Supply Chain for Africa*"
  - Soon to be submitted, 2023
 
 **7. A Column Generation Framework for the Tail Assignment Problem with Operational Maintenance Constraints**
