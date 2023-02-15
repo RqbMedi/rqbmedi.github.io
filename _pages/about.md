@@ -26,6 +26,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ======
+- 14/02/2023: Our Research Team has been selected as a **Finalist** at the *IFORS Prize for OR in Development 2023*. 
 - 06/01/2023: Visiting Scholar at Griffith University, Australia. 
 - 14/12/2022: Our Paper "Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain" was **accepted** to Journal *Omega*.
 - 10/12/2022: **Historic - Morocco reached the FIFA World Cup 2022 Semi-Finals**.
