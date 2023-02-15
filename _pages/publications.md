@@ -26,7 +26,7 @@ Published & Under Review
  - Authors: **Er Raqabi El Mehdi** et al.
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - Finalist at the *IFORS Prize for OR in Development 2023*
- - Selected for presentation at the 23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023
+ - Selected for presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
 
 **4. [An Electric Vehicle Migration Framework for Public Fleet Planning](https://www.iuj.ac.jp/research/workingpapers/EMS_2022_03.pdf)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
