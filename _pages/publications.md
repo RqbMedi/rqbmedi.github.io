@@ -44,8 +44,7 @@ Working Papers
  - Soon to be submitted, 2023
 
 **7. A Column Generation Framework for the Tail Assignment Problem with Operational Maintenance Constraints**
- - Authors: Sambrekar Akash, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl 
- - Soon to be submitted, 2023
+ - Authors: Sambrekar Akash, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl
 
 <br>
 (*: Equal Contribution)
