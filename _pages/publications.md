@@ -43,7 +43,7 @@ Working Papers
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - Soon to be submitted, 2023
 
-**7. Towards Resilience: Re-optimizing Downstream Operations within a Global Supply Chain**
+**7. Towards Resilience: Primal Large-scale Re-optimization**
  - Authors: **Er Raqabi El Mehdi**, Yong Wu, El Hallaoui Issmaïl and Soumis François
 
 **8. A Column Generation Framework for the Tail Assignment Problem with Operational Maintenance Constraints**
