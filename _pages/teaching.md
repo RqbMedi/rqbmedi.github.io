@@ -23,6 +23,6 @@ Teaching Assistant
 
 JDS Tutor
 ------
- - Tutor for MBA students under the Graduate School of International Management at IUJ. Topics: QIS1020 - Applied Statistics, QIS1070 - Computer Based Decision Making, ACT1010 - Financial Accounting, FIN1010 - Corporate Finance, ECN1010 - Managerial Economics, 2 hours/week for 48 weeks, Masters (2017 - 2018)
+ - Tutor for IUJ MBA students under the Graduate School of International Management. Topics: QIS1020 - Applied Statistics, QIS1070 - Computer Based Decision Making, ACT1010 - Financial Accounting, FIN1010 - Corporate Finance, ECN1010 - Managerial Economics, 2 hours/week for 48 weeks, Masters (2017 - 2018)
 
  ![Teaching Assistant IUJ](http://rqbmedi.github.io/images/8_Teaching_Assistant.jpeg)
