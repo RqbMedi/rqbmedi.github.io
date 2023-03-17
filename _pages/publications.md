@@ -46,8 +46,5 @@ Working Papers
 **7. Towards Resilience: Primal Large-scale Re-optimization**
  - Authors: **Er Raqabi El Mehdi**, Yong Wu, El Hallaoui Issmaïl and Soumis François
 
-**8. A Column Generation Framework for the Tail Assignment Problem with Operational Maintenance Constraints**
- - Authors: Sambrekar Akash, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl
-
 <br>
 (*: Equal Contribution)
