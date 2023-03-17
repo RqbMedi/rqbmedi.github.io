@@ -11,7 +11,7 @@ Before reaching the current state, I have been diversifying my experiences betwe
   
 Research Experience
 ------
-**1. Griffith Business School (GBS)**<br>
+**1. Griffith University (Griff)**<br>
 Visiting Scholar (Full Time), 2023 - Present
  - Advisors: Prof. Yong Wu
  - Research Areas: Operations Research, Re-optimization, Resilience, Supply Chain Management, Machine Learning for Operations Research
