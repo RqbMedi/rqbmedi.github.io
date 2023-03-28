@@ -7,7 +7,7 @@ author_profile: true
 
 I do enjoy giving talks and participating in conferences.
 
-Conferences
+Conferences & Talks
 ------
 
 **1. MPILS: An Automatic Tuner for MILP Solvers**
