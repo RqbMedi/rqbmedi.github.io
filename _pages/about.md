@@ -26,6 +26,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ======
+- 29/03/2023: Talk "*Modeling for Strategic Supply Chain Management*" at Griffith University Business School.
 - 14/02/2023: Our Research Project "*OCP Optimizes its Supply Chain for Africa*" has been selected as a **Finalist** at the *IFORS Prize for OR in Development 2023*. 
 - 06/01/2023: Visiting Scholar at Griffith University, Australia. 
 - 14/12/2022: Our Paper "Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain" was **accepted** to Journal *Omega*.
@@ -36,6 +37,7 @@ News
 
 Blogs
 ======
+- 28/03/2023: [Towards Resilience: “Quickly” Re-optimizing Large-scale Problems](https://medium.com/@erraqabielmehdi/towards-resilience-quickly-re-optimizing-large-scale-problems-1d7f923bb866)
 - 28/12/2022: [World Cup 2022: Between Predicted & Actual Outcomes](https://www.linkedin.com/pulse/world-cup-2022-between-predicted-actual-outcomes-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3)
 - 22/11/2022: [Beyond Classical Optimization Paradigms: Robustness, Fairness & Others](https://erraqabielmehdi.medium.com/beyond-classical-optimization-paradigms-robustness-fairness-others-dce754836c0d)
 - 31/10/2022: [Organization, Prioritization, Consistency & Patience: Keys for Hectic Schedules](https://www.linkedin.com/pulse/organization-prioritization-consistency-patience-keys-er-raqabi/?trackingId=SwNT9X4wQ6%2BXu%2FHBCCnE8A%3D%3D)
