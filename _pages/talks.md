@@ -10,7 +10,7 @@ I do enjoy giving talks and participating in conferences.
 Conferences & Talks
 ------
 
-**1. Modeling for Strategic Supply Chain Management**
+**1. Modelling for Strategic Supply Chain Management**
 - Griffith University Business School, Queensland, Australia, 2023
 
 **2. MPILS: An Automatic Tuner for MILP Solvers**
