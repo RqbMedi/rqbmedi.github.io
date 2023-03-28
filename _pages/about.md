@@ -26,7 +26,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ======
-- 29/03/2023: Talk "*Modeling for Strategic Supply Chain Management*" at Griff Business School.
+- 29/03/2023: Talk "*Modeling for Strategic Supply Chain Management*" at Griffith Business School.
 - 14/02/2023: Our Research Project "*OCP Optimizes its Supply Chain for Africa*" has been selected as a **Finalist** at the *IFORS Prize for OR in Development 2023*. 
 - 06/01/2023: Visiting Scholar at Griffith University, Australia. 
 - 14/12/2022: Our Paper "Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain" was **accepted** to Journal *Omega*.
