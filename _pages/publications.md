@@ -25,8 +25,8 @@ Published & Under Review
 **3. OCP Optimizes its Supply Chain for Africa**
  - Authors: **Er Raqabi El Mehdi**, Himmich Ilyas, Beljadid Ahmed, Mohammed Ali Bennouna, Rania Bennouna, Salah-Eddine Boumahdi,    Latifa Boussaadi, Nizar El Hachemi, Issmail El Hallaoui, Michel Fender, Hicham Guellaf, Anouar Jamali, El Miloudi Mahboubi, Metrane Abdelmoutalib,  Ilyas Rakhis, Nabil Si Hammou and Francois Soumis
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
- - Finalist at the *IFORS Prize for OR in Development 2023*
- - Selected for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
+ - **Finalist** at the *IFORS Prize for OR in Development 2023*
+ - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
 
 **4. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.iuj.ac.jp/research/workingpapers/EMS_2022_03.pdf)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
