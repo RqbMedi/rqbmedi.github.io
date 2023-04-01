@@ -34,7 +34,7 @@ News
 
 [comment]: <> (- 10/12/2022: **Historic - Morocco reached the FIFA World Cup 2022 Semi-Finals**.
 - 21/10/2022: Invited Speaker for the Industrial Seminars at EMI.)
-[comment]: <> (- 17/09/2022: Invited Speaker for the « HORIZONS » Conferences Series at [Lymed](https://www.lymed.ma/).
+[comment]: <> (- 17/09/2022: Invited Speaker for the « HORIZONS » Conferences Series at [Lymed](https://www.lymed.ma/)
 [comment]: <> (- 25/07/2022: IVADO Student Portraits – [Er Raqabi El Mehdi](https://ivado.ca/en/2022/07/25/ivado-student-portraits-er-raqabi-el-mehdi/)
 
 Blogs
