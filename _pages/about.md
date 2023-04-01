@@ -26,6 +26,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ======
+- 31/03/2023: Our Paper "An Electric Vehicle Transitioning Framework for Public Fleet Planning" was **accepted** to Journal *Transportation Research Part D: Transport and Environment*.
 - 29/03/2023: Talk "*Modeling for Strategic Supply Chain Management*" at Griffith Business School.
 - 14/02/2023: Our Research Project "*OCP Optimizes its Supply Chain for Africa*" has been selected as a **Finalist** at the [*IFORS Prize for OR in Development 2023*](https://ifors.org/newsletter/ifors-news-march-2023.pdf). 
 - 06/01/2023: Visiting Scholar at Griffith University, Australia. 
