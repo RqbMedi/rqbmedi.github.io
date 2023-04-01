@@ -44,9 +44,10 @@ Blogs
 - 22/11/2022: [Beyond Classical Optimization Paradigms: Robustness, Fairness & Others](https://erraqabielmehdi.medium.com/beyond-classical-optimization-paradigms-robustness-fairness-others-dce754836c0d)
 - 31/10/2022: [Organization, Prioritization, Consistency & Patience: Keys for Hectic Schedules](https://www.linkedin.com/pulse/organization-prioritization-consistency-patience-keys-er-raqabi/?trackingId=SwNT9X4wQ6%2BXu%2FHBCCnE8A%3D%3D)
 - 28/09/2022: [Metaheuristics: Favorising Time over Quality](https://erraqabielmehdi.medium.com/metaheuristics-favorising-time-over-quality-1c0c7a68fa37)
-- 30/08/2022: [Automatic Algorithm Configuration for Optimization Solvers](https://erraqabielmehdi.medium.com/automatic-algorithm-configuration-for-optimization-solvers-66ac3861a233)
-- 31/07/2022: [The Role of Internships in Tuning the Career Compass](https://www.linkedin.com/pulse/role-internships-tuning-career-compass-er-raqabi-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3/)
-- 29/06/2022: [The Benders Decomposition](https://erraqabielmehdi.medium.com/the-benders-decomposition-8dadf381f60c) <br>
 - More Blogs can be found [here](https://rqbmedi.github.io/portfolio/). 
+
+[comment]: <> (- 30/08/2022: [Automatic Algorithm Configuration for Optimization Solvers](https://erraqabielmehdi.medium.com/automatic-algorithm-configuration-for-optimization-solvers-66ac3861a233)
+[comment]: <> (- 31/07/2022: [The Role of Internships in Tuning the Career Compass](https://www.linkedin.com/pulse/role-internships-tuning-career-compass-er-raqabi-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3/)
+[comment]: <> (- 29/06/2022: [The Benders Decomposition](https://erraqabielmehdi.medium.com/the-benders-decomposition-8dadf381f60c)
 
 ![Four Countries Four Continents](http://rqbmedi.github.io/images/MAP.jpeg)
