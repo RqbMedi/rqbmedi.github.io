@@ -28,9 +28,9 @@ Published & Under Review
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
  - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
 
-**4. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.iuj.ac.jp/research/workingpapers/EMS_2022_03.pdf)**
+**4. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
- - **Accepted** in *Transportation Research Part D: Transport and Environment*, 2023
+ - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
 
 **5. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
