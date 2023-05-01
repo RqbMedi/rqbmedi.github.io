@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Mehdi. I have been learning and evolving in Four Countries on Four Continents. I am currently a Ph.D. Candidate at Polytechnique Montreal and a Visiting Scholar at Griffith University.
+Hi, I am Mehdi. I have been learning and evolving in Four Countries on Four Continents. I am currently a Ph.D. Candidate at Polytechnique Montreal.
 
 [comment]: <> (Update: In my beloved country Morocco, I acquired the Value of Believing. In Japan, I understood the Value of Hardwork. In Canada, I witnessed the Value of Excellence. In Australia, I am looking forward to confirming the Value of Consistency. I am very grateful to these dear countries :-))
 
 [comment]: <> (Update: Four Countries on Four Continents. In Australia, I confirmed the Value of Consistency.)
 
-<img alt="Australia" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Hopping Kangaroos (<1 Year).** I am currently a Visiting Scholar at the Business School of Griffith University ([Griff](https://www.griffith.edu.au/)), advised by Professor [Yong Wu](https://www.griffith.edu.au/griffith-business-school/departments/business-strategy-innovation/contact-us/staff/dr-yong-wu).
+<img alt="Australia" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg" width="22" height="22"/> **The Land of The Hopping Kangaroos (<1 Year).** During 2023, I was a Visiting Scholar at the Business School of Griffith University ([Griff](https://www.griffith.edu.au/)), advised by Professor [Yong Wu](https://www.griffith.edu.au/griffith-business-school/departments/business-strategy-innovation/contact-us/staff/dr-yong-wu). I explored the intersection of Re-optimization (Operations Research) and Resilience (Management Science) for perturbated large-scale contexts such as supply chains.
 
 <img alt="Canada" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/CA.svg" width="22" height="22"/> **The Land of The Maple Leaf (>3 Years).** I am a Ph.D. Candidate at the Mathematics and Industrial Engineering Department of Polytechnique Montreal ([Poly](https://www.polymtl.ca/)) and the Groupe d'Études et de Recherche en Analyse des Décisions ([Gerad](https://www.gerad.ca/en)), advised by Professors [El Hallaoui Issmaïl](https://www.polymtl.ca/expertises/el-hallaoui-issmail) & [Soumis François](https://www.polymtl.ca/expertises/soumis-francois). I specialize in large-scale optimization from several perspectives: *solver* (commercial, open-source, etc.), *metaheuristics* (local search, simulated annealing, etc.), *exact* (decompositions, branch-and-price, etc.), and *learning* (supervised, unsupervised, etc.). My Research is generously supported by the Fonds de Recherche du Québec - Nature et Technologie ([FRQNT](https://frq.gouv.qc.ca/en/)), the Institut de Valorisation des Données ([IVADO](https://ivado.ca/en/)), and the [OCP Group](https://www.ocpgroup.ma/). 
 
