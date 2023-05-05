@@ -12,6 +12,7 @@ During my curriculum, I have been generously supported by various entities inclu
 Honors & Awards
 ------
 
+- 2023 - MITACS Accelerate Fellowship, **$30,000**, MITACS
 - 2023 - IFORS Prize for OR in Development, **Finalist**, IFORS
 - 2022 - GERAD Competition for Doctoral Fellowships "Conference Fees", **$1,750**, GERAD
 - 2021 - FRQNT Ph.D. Merit Scholarship, **$77,000**, FRQNT
