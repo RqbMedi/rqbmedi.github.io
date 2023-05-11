@@ -24,6 +24,7 @@ Outreach & Volunteering
 
 Selected Media Coverage
 ------
+- [A GERAD Team Finalist for the IFORS Prize for OR in Development 2023](https://www.gerad.ca/en/posts/1060), GERAD, 2023
 - [Six Finalists for the IFORS Prize for OR in Development 2023](https://ifors.org/newsletter/ifors-news-march-2023.pdf), IFORS, 2023
 - [IVADO Student Portraits - Er Raqabi El Mehdi](https://ivado.ca/en/2022/07/25/ivado-student-portraits-er-raqabi-el-mehdi/), IVADO Institute, 2022
 - [IUJ held its 2019 Graduation Ceremony](https://www.iuj.ac.jp/20190622-2/), International University of Japan, 2019
