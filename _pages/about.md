@@ -26,7 +26,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ======
-- 11/05/2023: A [*GERAD Team Finalist*](https://www.gerad.ca/en/posts/1060) for the IFORS Prize for OR in Development 2023.
+- 11/05/2023: A [*GERAD Team*](https://www.gerad.ca/en/posts/1060) **Finalist** for the IFORS Prize for OR in Development 2023.
 - 26/04/2023: Our Research Project "*Solving Strategies for the Group Engagement Problem at Hydro-Québec*" has been **selected** for a *Mitacs Accelerate Fellowship*.
 - 31/03/2023: Our Paper "An Electric Vehicle Transitioning Framework for Public Fleet Planning" was **accepted** to Journal *Transportation Research Part D: Transport and Environment*.
 - 29/03/2023: Talk "*Modeling for Strategic Supply Chain Management*" at Griffith Business School.
