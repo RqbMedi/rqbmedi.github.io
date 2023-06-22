@@ -36,63 +36,70 @@ Research Project (Full Time), 2018 - 2019
 
 Business Experience
 ------
-**1. Fostergy Technologies Inc.**<br>
+**1. Hydro-Québec**<br>
+MITACS Accelerate Intern (Part Time), 2023
+ - Tackling Hydro-Québec’s specific Unit Commitment Problem (UCP) using efficient large-scale optimization algorithms
+ - Collaborating closely with researchers from the Hydro-Québec Research Institute (IREQ)
+ - Industry: Electric Utilities
+ - Location: Varennes, Canada
+
+**2. Fostergy Technologies Inc.**<br>
 Operational Researcher & Data Scientist (Part Time), 2017 - 2019
  - Designing efficient and effective selection of the appropriate electric vehicle components and prediction of its behavior over different kinds of routes/duty cycles and over a huge number of parameters’ choices
  - Enhancing user’s simulation capability and reducing development time many folds
  - Industry: Electric Vehicles
  - Location: Niigata, Japan
 
-**2. ProQuest Japan**<br>
+**3. ProQuest Japan**<br>
 Systems Engineering Intern (Part Time), Fall 2018
  - Promoting of the on-line ProQuest’s product training
  - Planning, designing, and implementing the use of databases and the conduct of research within IUJ Library
  - Industry: Information & Data Provision
  - Location: Yokohama, Japan
 
-**3. Japan Space Systems** <br>
+**4. Japan Space Systems** <br>
 Remote Sensing and GIS Intern (Full Time), September 2018
  - Tackling global issues as well as sustainable development using remote sensing and GIS data utilization skills in developing countries
  - Practical application to water shortage, natural disasters, etc.
  - Industry: Space
  - Location: Tokyo, Japan
 
-**4. Induproj**<br>
+**5. Induproj**<br>
 Quality & Safety Manager (Full Time), 2016 - 2017
  - Leading quality management through the international standard ISO 9001, quality control of the work done on the construction sites, and quality assurance into which I was dealing with customers’ requirements and seeking their satisfaction
  - Leading safety management through the standard OHSAS 18001 and safety control of all the work done on the construction sites. Achieved the main safety KPI of 0 accident
  - Industry: Industrial Assembly & Construction
  - Location: El Jadida, Morocco
 
-**5. Bombardier**<br>
+**6. Bombardier**<br>
 Operations Management Intern (Full Time), Spring 2016
  - Designing and implementing an Automated Production System (APS) for assembly lines monitoring
  - Introducing Data mining for knowledge extraction
  - Industry: Aerospace
  - Location: Casablanca, Morocco
 
-**6. Managem Group**<br> 
+**7. Managem Group**<br> 
 Industrial Challenge (Full Time), Summer 2015
  - Modeling and Simulating the Silver Treatment Plant at SMI
  - Mapping of Ag rocks flows at SMI
  - Industry: Mining 
  - Location: Tinghir, Morocco
 
- **7. Société Nouvelles de Volailles**<br>  
+ **8. Société Nouvelles de Volailles**<br>  
 Industrial Challenge (Full Time), Summer 2015
  - Motion and time study within the factory
  - Programming an application for company's KPI monitoring
  - Industry: Agri-food
  - Location: Temara, Morocco
 
- **8. Caisse de Dépôt et de Gestion**<br>  
+ **9. Caisse de Dépôt et de Gestion**<br>  
 Project Management Internship (Part Time), Winter 2015
  - Study and Comprehension of international projects management references such as PMBOK and Prince2
  - Analysis of a strategic PMO within CDG based on international projects management standards
  - Industry: Finance
  - Location: Rabat, Morocco
 
- **9. Sogea-Satom**<br> 
+ **10. Sogea-Satom**<br> 
  Operator Internship (Full Time), Summer 2014
  - Working as an Operator in a Sheet-metal Workshop.
  - Implementation of a 5S tools in the plant SBK.
