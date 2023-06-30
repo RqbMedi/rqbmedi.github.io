@@ -20,7 +20,7 @@ Published & Under Review
  - Authors: Himmich Ilyas∗, **Er Raqabi El Mehdi**∗, El Hachemi Nizar, El Hallaoui Issmaïl, Metrane Abdelmoutalib and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - **Major Revision** in *Computers & Operations Research*, 2023
+ - **Accepted** in *Computers & Operations Research*, 2023
 
 **3. OCP Optimizes its Supply Chain for Africa**
  - Authors: **Er Raqabi El Mehdi**, Himmich Ilyas, Beljadid Ahmed, Mohammed Ali Bennouna, Rania Bennouna, Salah-Eddine Boumahdi,    Latifa Boussaadi, Nizar El Hachemi, Issmail El Hallaoui, Michel Fender, Hicham Guellaf, Anouar Jamali, El Miloudi Mahboubi, Metrane Abdelmoutalib,  Ilyas Rakhis, Nabil Si Hammou and Francois Soumis
