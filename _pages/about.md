@@ -26,6 +26,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ======
+- 30/06/2023: Our Paper "MPILS: An Automatic Tuner for MILP Solvers" was **accepted** to Journal *Computers & Operations Research*.
 - 20/06/2023: Internship at the Hydro-Québec Research Institute (IREQ).
 - 11/05/2023: A [*GERAD Team*](https://www.gerad.ca/en/posts/1060) **Finalist** for the IFORS Prize for OR in Development 2023.
 - 26/04/2023: Our Research Project "*Solving Strategies for the Group Engagement Problem at Hydro-Québec*" has been **selected** for a *Mitacs Accelerate Fellowship*.
