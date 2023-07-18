@@ -13,15 +13,15 @@ Conferences & Talks
 **1. OCP Optimizes its Supply Chain for Africa**
 - IFORS Prize for OR in Development, Santiago, Chile, 2023
 
-**1. Modeling for Strategic Supply Chain Management**
+**2. Modeling for Strategic Supply Chain Management**
 - Griffith University Business School, Queensland, Australia, 2023
 
-**2. MPILS: An Automatic Tuner for MILP Solvers**
+**3. MPILS: An Automatic Tuner for MILP Solvers**
  - CORS/INFORMS International Conference, Vancouver, Canada, 2022
  - JOPT, Montreal, Canada, 2022
 
-**3. Design of Electric Vehicle Charging Stations**
+**4. Design of Electric Vehicle Charging Stations**
  - SLACJ 6th International Conference on Indo-Pacific Studies, Niigata, Japan, 2019
 
-**4. Achieving Traceability within Supply Chains through Data Science**
+**5. Achieving Traceability within Supply Chains through Data Science**
  - International Conference On Advances In Cloud Computing, Data Science And Big Data Analytics, Tokyo, Japan, 2019
