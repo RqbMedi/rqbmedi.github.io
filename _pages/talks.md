@@ -10,6 +10,9 @@ I do enjoy giving talks and participating in conferences.
 Conferences & Talks
 ------
 
+**1. OCP Optimizes its Supply Chain for Africa**
+- IFORS Prize for OR in Development, Santiago, Chile, 2023
+
 **1. Modeling for Strategic Supply Chain Management**
 - Griffith University Business School, Queensland, Australia, 2023
 
