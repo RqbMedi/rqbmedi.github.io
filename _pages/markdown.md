@@ -18,7 +18,7 @@ Organizing & Leadership
 Outreach & Volunteering
 ------
 - *IVADO Student Intersectoral Committee:* Member in the IVADO Student Intersectoral Committee, 2023
-- *Canadian Operations Research Society:* Volunteer in the Montreal Operations Research Student Chapter (MORSC), 2022
+- *Canadian Operations Research Society:* Member in the Montreal Operations Research Student Chapter (MORSC), 2022
 - *Industrial Seminars:* Speaker at several seminars within the Industrial Engineering Departement of EMI, 2019-Present
 - *Tutor:* Academic orientation and schooling for Moroccan undergraduate and graduate students, 2017-Present
 - *Snow Shoveling:* Volunteer in snow shoveling activities to help and support elderly citizens of Minamiuonuma City, 2018
