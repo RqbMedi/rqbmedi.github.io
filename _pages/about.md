@@ -43,6 +43,7 @@ News
 
 Blogs
 ======
+- 02/08/2023: IFORS 2023: Conference, OR Prize & Chile
 - 08/05/2023: [Discovering the Land of the Hopping Kangaroos: Research & Wildlife](https://www.linkedin.com/pulse/discovering-land-hopping-kangaroos-research-wildlife-er-raqabi?fbclid=IwAR3jyN2Y2w0HqL_qcLFMbUlqGcOnwSSLaajI4_d5p9qz9E2DOLwrN9Ay2BY)
 - 28/03/2023: [Towards Resilience: “Quickly” Re-optimizing Large-scale Problems](https://medium.com/@erraqabielmehdi/towards-resilience-quickly-re-optimizing-large-scale-problems-1d7f923bb866)
 - 28/12/2022: [World Cup 2022: Between Predicted & Actual Outcomes](https://www.linkedin.com/pulse/world-cup-2022-between-predicted-actual-outcomes-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3)
