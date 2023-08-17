@@ -16,7 +16,7 @@ Honors & Awards
 - 2023 - IFORS Prize for OR in Development, **Finalist**, IFORS
 - 2022 - GERAD Competition for Doctoral Fellowships "Conference Fees", **$1,750**, GERAD
 - 2021 - FRQNT Ph.D. Merit Scholarship, **$84,000**, FRQNT
-- 2021 - IVADO Ph.D. Excellence Scholarship, **$100,000**, IVADO Institute
+- 2021 - IVADO Ph.D. Excellence Scholarship, **$75,000**, IVADO Institute
 - 2021 - Vanier Canada Graduate Scholarship, **Finalist**, Government of Canada
 - 2020 - OCP Group Fellowship, **$32,000**, OCP Group 
 - 2020 - Increased Tuition Fees Exemption, **$25,000**, Polytechnique Montreal
