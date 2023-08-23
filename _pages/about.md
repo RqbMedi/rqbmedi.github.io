@@ -26,7 +26,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ======
-- 06/12/2023: Seminar [*“Un(e) Chercheur(-EUSE) du GERAD Vous Parle!”*](https://www.gerad.ca/fr/events/2151).
+- 06/12/2023: Seminar [*“Meet a GERAD Researcher!”*](https://www.gerad.ca/fr/events/2151).
 - 20/07/2023: Member within the [*IVADO Intersectorial Student Committee*](https://ivado.ca/comite-etudiant/).
 - 30/06/2023: Our Paper "MPILS: An Automatic Tuner for MILP Solvers" was **accepted** to Journal *Computers & Operations Research*.
 - 20/06/2023: Internship at the Hydro-Québec Research Institute (IREQ).
