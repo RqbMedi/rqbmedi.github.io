@@ -17,6 +17,7 @@ Organizing & Leadership
 
 Outreach & Volunteering
 ------
+- *OR@AFRICA Initiative:* Founding Member of OR@Africa, 2023
 - *IVADO Student Intersectoral Committee:* Member in the IVADO Student Intersectoral Committee, 2023
 - *Canadian Operations Research Society:* Member in the Montreal Operations Research Student Chapter (MORSC), 2022
 - *Industrial Seminars:* Speaker at several seminars within the Industrial Engineering Departement of EMI, 2019-Present
