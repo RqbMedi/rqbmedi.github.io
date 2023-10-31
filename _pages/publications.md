@@ -29,23 +29,27 @@ Published & Under Review
  - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
  - **Under Review** in *INFORMS Journal on Applied Analytics*, 2023
 
-**4. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
+ **4. The Primal Benders Decomposition** 
+ - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
+ - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
+- **Under Review** in *Operations Research*, 2023
+
+**5. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
  - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
 
-**5. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
+**6. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
  - Master’s Thesis, International University of Japan, 2019
 
 Working Papers
 ------
-**6. The Primal Benders Decomposition** 
- - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
- - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - Soon to be submitted, 2023
 
 **7. Towards Resilience: Primal Large-scale Re-optimization**
  - Authors: **Er Raqabi El Mehdi**, Yong Wu, El Hallaoui Issmaïl and Soumis François
+
+**8. An Efficient Decomposition Matheuristic for the Unit Commitment Problem with Power Stability Constraints**
+ - Authors: **Er Raqabi El Mehdi**, Bani Abderrahmane, Morabit Mouad, Blondin Alexandre, Besner Alexandre and El Hallaoui Issmaïl.
 
 <br>
 (*: Equal Contribution)
