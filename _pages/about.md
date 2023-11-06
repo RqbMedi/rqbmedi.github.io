@@ -26,7 +26,9 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ======
+- 08/12/2023: Talk "*An Electric Vehicle Transitioning Framework for Public Fleet Planning*" at International University of Japan.
 - 06/12/2023: Seminar [*“Meet a GERAD Researcher!”*](https://www.gerad.ca/fr/events/2151).
+- 09/11/2023: Industrial Engineering Seminar at Mohammadia School of Engineering.
 - 20/07/2023: Member within the [*IVADO Intersectorial Student Committee*](https://ivado.ca/comite-etudiant/).
 - 30/06/2023: Our Paper "MPILS: An Automatic Tuner for MILP Solvers" was **accepted** to Journal *Computers & Operations Research*.
 - 20/06/2023: Internship at the Hydro-Québec Research Institute (IREQ).
