@@ -22,17 +22,17 @@ Published & Under Review
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Published** in *Computers & Operations Research*, 2023
 
-**3. [OCP Optimizes its Supply Chain for Africa](https://www.gerad.ca/en/papers/G-2023-29)**
+**3. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
+ - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
+ - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
+- **Under Review** in *Operations Research*, 2023
+
+**4. [OCP Optimizes its Supply Chain for Africa](https://www.gerad.ca/en/papers/G-2023-29)**
  - Authors: **Er Raqabi El Mehdi**, Beljadid Ahmed, Mohammed Ali Bennouna, Rania Bennouna, Latifa Boussaadi, Nizar El Hachemi, Issmail El Hallaoui, Michel Fender, Anouar Jamali, Nabil Si Hammou and Francois Soumis
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
  - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
  - **Under Review** in *INFORMS Journal on Applied Analytics*, 2023
-
- **4. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
- - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
- - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
-- **Under Review** in *Operations Research*, 2023
 
 **5. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
