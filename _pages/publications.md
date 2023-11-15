@@ -29,7 +29,7 @@ Published & Under Review
  - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
  - **Under Review** in *INFORMS Journal on Applied Analytics*, 2023
 
- **4. The Primal Benders Decomposition** 
+ **4. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
  - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
 - **Under Review** in *Operations Research*, 2023
