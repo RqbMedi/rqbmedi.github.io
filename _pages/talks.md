@@ -14,7 +14,7 @@ Conferences & Talks
 - IFORS Prize for OR in Development, Santiago, Chile, 2023
 - Seminar Meet a GERAD Researcher!, Montreal, Canada, 2023
 
-**2. OCP Optimizes its Supply Chain for Africa**
+**2. An Electric Vehicle Transitioning Framework for Public Fleet Planning**
 - International University of Japan, Niigata, Japan, 2023
 
 **3. Modeling for Strategic Supply Chain Management**
