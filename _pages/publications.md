@@ -49,10 +49,10 @@ Working Papers
  - Authors: **Er Raqabi El Mehdi**, Yong Wu, El Hallaoui Issmaïl and Soumis François
 
 **8. An Efficient Decomposition Matheuristic for the Unit Commitment Problem with Power Stability Constraints**
- - Authors: **Er Raqabi El Mehdi**, Bani Abderrahmane, Morabit Mouad, Blondin Alexandre, Besner Alexandre and El Hallaoui Issmaïl.
+ - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre and El Hallaoui Issmaïl.
 
  **9. Combining  Benders Decomposition and Column Generation for a Petrol Replenishment Problem with Inventory Management**
- - Authors: Bani Abderrahmane, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl.
+ - Authors: Bani Abderrahman, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl.
 
 <br>
 (*: Equal Contribution)
