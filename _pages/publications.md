@@ -27,7 +27,7 @@ Published & Under Review
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Under Review** in *Operations Research*, 2023
 
-**4. Towards Resilience: Primal Large-scale Re-optimization**
+**4. [Towards Resilience: Primal Large-scale Re-optimization](https://www.gerad.ca/en/papers/G-2023-28)**
  - Authors: **Er Raqabi El Mehdi**, Yong Wu, El Hallaoui Issmaïl and Soumis François
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Under Review**, 2024
