@@ -37,7 +37,7 @@ Research Project (Full-Time), 2018 - 2019
 Business Experience
 ------
 **1. Hydro-Québec**<br>
-MITACS Accelerate Intern (Part-Time), 2023
+MITACS Accelerate Intern (Part-Time), 2023 - 2024
  - Tackling Hydro-Québec’s specific Unit Commitment Problem (UCP) using efficient large-scale optimization algorithms
  - Collaborating closely with researchers from the Hydro-Québec Research Institute (IREQ)
  - Industry: Electric Utilities
