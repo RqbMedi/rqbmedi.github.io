@@ -24,11 +24,11 @@ Conferences & Talks
 - Griffith University Business School, Queensland, Australia, 2023
 
 **5. MPILS: An Automatic Tuner for MILP Solvers**
- - CORS/INFORMS International Conference, Vancouver, Canada, 2022
- - JOPT, Montreal, Canada, 2022
+- CORS/INFORMS International Conference, Vancouver, Canada, 2022
+- JOPT, Montreal, Canada, 2022
 
 **6. Design of Electric Vehicle Charging Stations**
- - SLACJ 6th International Conference on Indo-Pacific Studies, Niigata, Japan, 2019
+- SLACJ 6th International Conference on Indo-Pacific Studies, Niigata, Japan, 2019
 
 **7. Achieving Traceability within Supply Chains through Data Science**
- - International Conference On Advances In Cloud Computing, Data Science And Big Data Analytics, Tokyo, Japan, 2019
+- International Conference On Advances In Cloud Computing, Data Science And Big Data Analytics, Tokyo, Japan, 2019
