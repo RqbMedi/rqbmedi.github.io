@@ -25,7 +25,7 @@ Published & Under Review
 **3. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
  - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - **Under Review** in *Operations Research*, 2023
+ - **Under Review**, 2023
 
 **4. [Towards Resilience: Primal Large-scale Re-optimization](https://www.gerad.ca/en/papers/G-2023-28)**
  - Authors: **Er Raqabi El Mehdi**, Yong Wu, El Hallaoui Issmaïl and Soumis François
@@ -38,7 +38,6 @@ Published & Under Review
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
  - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
  - **Under Review** in *INFORMS Journal on Applied Analytics*, 2023
-
 
 **6. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
@@ -59,6 +58,9 @@ Working Papers
 
 **10. A New Benders Decomposition**
  - Authors: El Fassi Mohamed, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl
+
+**11. The Petrol Station Replenishment Problem: Case Study from West Africa**
+ - Authors: Bani Abderrahman, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl
 
 <br>
 (*: Equal Contribution)
