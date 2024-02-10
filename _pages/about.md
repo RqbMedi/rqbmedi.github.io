@@ -36,14 +36,15 @@ News
 - 20/07/2023: Member within the [*IVADO Intersectorial Student Committee*](https://ivado.ca/comite-etudiant/).
 - 30/06/2023: Our Paper "MPILS: An Automatic Tuner for MILP Solvers" was **accepted** to Journal *Computers & Operations Research*.
 - 20/06/2023: Internship at the Hydro-Québec Research Institute (IREQ).
-- 11/05/2023: A [*GERAD Team*](https://www.gerad.ca/en/posts/1060) **Finalist** for the IFORS Prize for OR in Development 2023.
-- 26/04/2023: Our Research Project "*Solving Strategies for the Group Engagement Problem at Hydro-Québec*" has been **selected** for a *Mitacs Accelerate Fellowship*.
-- 31/03/2023: Our Paper "An Electric Vehicle Transitioning Framework for Public Fleet Planning" was **accepted** to Journal *Transportation Research Part D: Transport and Environment*.
-- 29/03/2023: Talk "*Modeling for Strategic Supply Chain Management*" at Griffith Business School.
-- 14/02/2023: Our Research Project "*OCP Optimizes its Supply Chain for Africa*" has been selected as a **Finalist** at the [*IFORS Prize for OR in Development 2023*](https://ifors.org/newsletter/ifors-news-june-2023.pdf). 
-- 06/01/2023: Visiting Scholar at Griffith University, Australia. 
-- 14/12/2022: Our Paper "Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain" was **accepted** to Journal *Omega*.
 
+[comment]: <> (- 11/05/2023: A [*GERAD Team*](https://www.gerad.ca/en/posts/1060) 
+[comment]: <> (**Finalist** for the IFORS Prize for OR in Development 2023.)
+[comment]: <> (- 26/04/2023: Our Research Project "*Solving Strategies for the Group Engagement Problem at Hydro-Québec*" has been **selected** for a *Mitacs Accelerate Fellowship*.)
+[comment]: <> (- 31/03/2023: Our Paper "An Electric Vehicle Transitioning Framework for Public Fleet Planning" was **accepted** to Journal *Transportation Research Part D: Transport and Environment*.)
+[comment]: <> (- 29/03/2023: Talk "*Modeling for Strategic Supply Chain Management*" at Griffith Business School.)
+[comment]: <> (- 14/02/2023: Our Research Project "*OCP Optimizes its Supply Chain for Africa*" has been selected as a **Finalist** at the [*IFORS Prize for OR in Development 2023*](https://ifors.org/newsletter/ifors-news-june-2023.pdf)
+[comment]: <> (- 06/01/2023: Visiting Scholar at Griffith University, Australia.]
+[comment]: <> (- 14/12/2022: Our Paper "Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain" was **accepted** to Journal *Omega*.)
 [comment]: <> (- 10/12/2022: **Historic - Morocco reached the FIFA World Cup 2022 Semi-Finals**.)
 [comment]: <> (- 21/10/2022: Invited Speaker for the Industrial Seminars at EMI.)
 [comment]: <> (- 17/09/2022: Invited Speaker for the « HORIZONS » Conferences Series at [Lymed](https://www.lymed.ma/)
