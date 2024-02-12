@@ -44,15 +44,15 @@ Research Project (Full-Time), 2018 - 2019
 
 Business Experience
 ------
-**1. Hydro-Québec**<br>
-MITACS Accelerate Intern (Part-Time), 2023 - 2024
+**1. Hydro Québec**<br>
+Operations Research Consultant (Part-Time), 2023 - 2024
  - Tackling Hydro-Québec’s specific Unit Commitment Problem (UCP) using efficient large-scale optimization algorithms
  - Collaborating closely with researchers from the Hydro-Québec Research Institute (IREQ)
  - Industry: Electric Utilities
  - Location: Varennes, Canada
 
 **2. Fostergy Technologies Inc.**<br>
-Operational Researcher & Data Scientist (Part-Time), 2017 - 2019
+Operations Researcher & Data Scientist (Part-Time), 2017 - 2019
  - Designing efficient and effective selection of the appropriate electric vehicle components and prediction of its behavior over different kinds of routes/duty cycles and over a huge number of parameters’ choices
  - Enhancing user’s simulation capability and reducing development time many folds
  - Industry: Electric Vehicles
