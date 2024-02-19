@@ -59,7 +59,7 @@ Working Papers
 **10. An Efficient Decomposition Matheuristic for the Unit Commitment Problem with Power Stability Constraints**
  - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre and El Hallaoui Issmaïl
 
-**11. A New Benders Decomposition**
+**11. The Improved L-shaped Method using the Primal Simplex Decomposition**
  - Authors: El Fassi Mohamed, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl
 
 
