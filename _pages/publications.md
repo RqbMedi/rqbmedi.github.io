@@ -39,29 +39,30 @@ Published & Under Review
  - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
  - **Major Revision** in *INFORMS Journal on Applied Analytics*
 
-**6. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
+**6. Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management**
+ - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Insa Corréa Ayoub
+- **Under Review**
+
+**7. The Petrol Station Replenishment Problem: A Case Study from West Africa**
+ - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Insa Corréa Ayoub
+- **Under Review**
+
+**8. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
  - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
 
-**7. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
+**9. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
  - Master’s Thesis, International University of Japan, 2019
 
 Working Papers
 ------
 
-**8. Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management**
- - Authors: Bani Abderrahman, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl
-
-**9. The Petrol Station Replenishment Problem: A Case Study from West Africa**
- - Authors: Bani Abderrahman, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl
-
 **10. An Efficient Decomposition Matheuristic for the Unit Commitment Problem with Power Stability Constraints**
  - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre and El Hallaoui Issmaïl
 
-**11. The Improved L-shaped Method using the Primal Simplex Decomposition**
- - Authors: El Fassi Mohamed, **Er Raqabi El Mehdi** and El Hallaoui Issmaïl
-
+**11. The Primal L-shaped Method using the Primal Simplex Decomposition**
+ - Authors: El Fassi Mohamed, **Er Raqabi El Mehdi**, Leus Roel and El Hallaoui Issmaïl
 
 <br>
 (*: Equal Contribution)
