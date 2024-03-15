@@ -22,34 +22,34 @@ Published & Under Review
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Published** in *Computers & Operations Research*, 2023
 
-**3. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
- - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
- - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - **Under Review**
- 
-**4. [Towards Resilience: Primal Large-scale Re-optimization](https://www.gerad.ca/en/papers/G-2023-28)**
- - Authors: **Er Raqabi El Mehdi**, Yong Wu, El Hallaoui Issmaïl and Soumis François
- - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - **Under Review**
+**3. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
+ - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
+ - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
 
-**5. [OCP Optimizes its Supply Chain for Africa](https://www.gerad.ca/en/papers/G-2023-29)**
+**4. [OCP Optimizes its Supply Chain for Africa](https://www.gerad.ca/en/papers/G-2023-29)**
  - Authors: **Er Raqabi El Mehdi**, Beljadid Ahmed, Mohammed Ali Bennouna, Rania Bennouna, Latifa Boussaadi, Nizar El Hachemi, Issmail El Hallaoui, Michel Fender, Anouar Jamali, Nabil Si Hammou and Francois Soumis
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
  - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
  - **Major Revision** in *INFORMS Journal on Applied Analytics*
 
-**6. Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management**
+**5. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
+ - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
+ - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
+ - **Under Review**
+ 
+**6. [Towards Resilience: Primal Large-scale Re-optimization](https://www.gerad.ca/en/papers/G-2023-28)**
+ - Authors: **Er Raqabi El Mehdi**, Yong Wu, El Hallaoui Issmaïl and Soumis François
+ - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
+ - **Under Review**
+
+**7. Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Insa Corréa Ayoub
 - **Under Review**
 
-**7. The Petrol Station Replenishment Problem: A Case Study from West Africa**
+**8. The Petrol Station Replenishment Problem: A Case Study from West Africa**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Insa Corréa Ayoub
 - **Under Review**
-
-**8. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
- - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
- - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
 
 **9. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
