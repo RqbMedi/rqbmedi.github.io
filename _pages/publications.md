@@ -29,6 +29,7 @@ Published & Under Review
 **4. [OCP Optimizes its Supply Chain for Africa](https://www.gerad.ca/en/papers/G-2023-29)**
  - Authors: **Er Raqabi El Mehdi**, Beljadid Ahmed, Mohammed Ali Bennouna, Rania Bennouna, Latifa Boussaadi, Nizar El Hachemi, Issmail El Hallaoui, Michel Fender, Anouar Jamali, Nabil Si Hammou and François Soumis
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
+ - **Finalist** at the *EURO Excellence in Practice Award 2024*
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
  - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
  - **Major Revision** in *INFORMS Journal on Applied Analytics*
