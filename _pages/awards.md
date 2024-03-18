@@ -11,7 +11,7 @@ During my curriculum, I have been generously supported by various entities inclu
 
 Honors & Awards
 ------
-
+- 2024 - EURO Excellence in Practice Award, **Finalist**, EURO
 - 2023 - MITACS Accelerate Fellowship, **$30,000**, MITACS
 - 2023 - IFORS Prize for OR in Development, **Finalist**, IFORS
 - 2022 - GERAD Competition for Doctoral Fellowships "Conference Fees", **$1,750**, GERAD
