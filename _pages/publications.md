@@ -46,11 +46,11 @@ Published & Under Review
 
 **7. [Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management](https://www.gerad.ca/en/papers/G-2024-18)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
-- **Under Review**
+ - **Under Review**
 
 **8. The Petrol Station Replenishment Problem: A Case Study from West Africa**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
-- **Under Review**
+ - **Under Review**
 
 **9. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
