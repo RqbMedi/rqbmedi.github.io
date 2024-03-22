@@ -48,7 +48,7 @@ Published & Under Review
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
-**8. The Petrol Station Replenishment Problem: A Case Study from West Africa**
+**8. [The Petrol Station Replenishment Problem: A Case Study from West Africa](https://www.gerad.ca/en/papers/G-2024-19)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
