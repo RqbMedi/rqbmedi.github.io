@@ -44,7 +44,7 @@ Published & Under Review
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Under Review**
 
-**7. Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management**
+**7. [Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management](https://www.gerad.ca/en/papers/G-2024-18)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
 - **Under Review**
 
