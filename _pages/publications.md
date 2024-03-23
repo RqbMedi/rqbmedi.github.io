@@ -63,7 +63,7 @@ Working Papers
  - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre and El Hallaoui Issmaïl
 
 **11. The Primal L-shaped Method using the Primal Simplex Decomposition**
- - Authors: El Fassi Mohamed, **Er Raqabi El Mehdi**, Leus Roel and El Hallaoui Issmaïl
+ - Authors: **Er Raqabi El Mehdi**, El Fassi Mohamed, Leus Roel and El Hallaoui Issmaïl
 
 <br>
 (*: Equal Contribution)
