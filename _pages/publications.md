@@ -31,7 +31,6 @@ Published & Under Review
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - **Finalist** at the *EURO Excellence in Practice Award 2024*
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
- - **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*
  - **Major Revision** in *INFORMS Journal on Applied Analytics*
 
 **5. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
@@ -67,3 +66,5 @@ Working Papers
 
 <br>
 (*: Equal Contribution)
+
+ [comment]: <> (- **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*)
