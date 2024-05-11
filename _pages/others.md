@@ -12,7 +12,7 @@ Before reaching the current state, I have been diversifying my experiences betwe
 Research Experience
 ------
 **1. Katholieke Universiteit Leuven (KU Leuven)**<br>
-Visiting Scholar (Full-Time), 2024 - Present
+Visiting Scholar (Full-Time), 2024
  - Advisors: Prof. Roel Leus
  - Research Areas: Operations Research, Re-optimization, Benders Decomposition, Improved Primal Simplex, Large-Scale Optimization
  - Applications: Transportation, Facility Location, Mining, Operations and Supply Chain Management
