@@ -61,7 +61,7 @@ Working Papers
 **10. An Efficient Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec**
  - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre, Fournier Julien and El Hallaoui Issmaïl
 
-**11. The Primal L-shaped Method using the Primal Simplex Decomposition**
+**11. The Stochastic Improved Primal Simplex**
  - Authors: **Er Raqabi El Mehdi**, El Fassi Mohamed, Leus Roel and El Hallaoui Issmaïl
 
 <br>

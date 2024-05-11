@@ -26,6 +26,8 @@ Outreach & Volunteering
 
 Selected Media Coverage
 ------
+- [OCP Optimizes Its Supply Chain For Africa and The World](https://www.euro-online.org/web/pages/1726/eepa-finalists-2024), EURO, 2024
+- [OR IMPACT: Optimising OCP Group’s Moroccan Phosphate Supply Chain](https://ifors.org/newsletter/ifors-news-march-2024.pdf), IFORS, 2024
 - [A GERAD Team Finalist for the IFORS Prize for OR in Development 2023](https://www.gerad.ca/en/posts/1060), GERAD, 2023
 - [Six Finalists for the IFORS Prize for OR in Development 2023](https://ifors.org/newsletter/ifors-news-march-2023.pdf), IFORS, 2023
 - [IVADO Student Portraits - Er Raqabi El Mehdi](https://ivado.ca/en/2022/07/25/ivado-student-portraits-er-raqabi-el-mehdi/), IVADO Institute, 2022
