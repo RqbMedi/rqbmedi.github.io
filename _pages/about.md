@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Mehdi. I am currently a Ph.D. Candidate in Operations Research at Polytechnique Montreal and a Visiting Scholar at KU Leuven. So far, I have been learning and evolving in Five Countries on Five Continents.
+Hi, I am Mehdi. I am currently a Ph.D. Candidate in Operations Research at Polytechnique Montreal. So far, I have been learning and evolving in Five Countries on Five Continents.
 
 [comment]: <> (Update: In my beloved country Morocco, I acquired the Value of Believing. In Japan, I understood the Value of Hardwork. In Canada, I witnessed the Value of Excellence. In Australia, I am looking forward to confirming the Value of Consistency. I am very grateful to these dear countries :-))
 
