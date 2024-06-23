@@ -27,7 +27,7 @@ Published & Under Review
  - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
 
 **4. [OCP Optimizes its Supply Chain for Africa](https://www.gerad.ca/en/papers/G-2023-29)**
- - Authors: **Er Raqabi El Mehdi**, Beljadid Ahmed, Mohammed Ali Bennouna, Rania Bennouna, Latifa Boussaadi, Nizar El Hachemi, Issmail El Hallaoui, Michel Fender, Anouar Jamali, Nabil Si Hammou and François Soumis
+ - Authors: **Er Raqabi El Mehdi**, Beljadid Ahmed, Bennouna Mohammed Ali, Bennouna Rania, Boussaadi Latifa, El Hachemi Nizar, El Hallaoui Issmail, Fender Michel, Jamali Mohamed Anouar, Si Hammou Nabil and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - **Finalist** at the *EURO Excellence in Practice Award 2024*
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
