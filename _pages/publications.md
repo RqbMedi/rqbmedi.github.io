@@ -33,13 +33,13 @@ Published & Under Review
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
  - **Major Revision** in *INFORMS Journal on Applied Analytics*
 
-**5. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
- - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
- - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - **Under Review**
- 
-**6. [Towards Resilience: Primal Large-scale Re-optimization](https://www.gerad.ca/en/papers/G-2023-28)**
+**5. [Towards Resilience: Primal Large-scale Re-optimization](https://www.gerad.ca/en/papers/G-2023-28)**
  - Authors: **Er Raqabi El Mehdi**, Wu Yong, El Hallaoui Issmaïl and Soumis François
+ - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
+ - **Major Revision** in *Transportation Research Part E: Logistics and Transportation Review*
+
+**6. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
+ - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Under Review**
 
