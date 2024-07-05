@@ -51,18 +51,22 @@ Published & Under Review
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
-**9. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
+**9. An Efficient Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec**
+ - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre, Fournier Julien and El Hallaoui Issmaïl
+ - **Under Review**
+
+**10. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
  - Master’s Thesis, International University of Japan, 2019
 
 Working Papers
 ------
 
-**10. An Efficient Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec**
- - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre, Fournier Julien and El Hallaoui Issmaïl
-
 **11. The Stochastic Improved Primal Simplex**
  - Authors: **Er Raqabi El Mehdi**, El Fassi Mohamed, Leus Roel and El Hallaoui Issmaïl
+
+**12. A Parallel Multi-Purpose Tuner for MIP Solvers**
+ - Authors: **Er Raqabi El Mehdi**, Siwane Oussama, El Hallaoui Issmaïl and Beljadid Ahmed 
 
 <br>
 (*: Equal Contribution)
