@@ -51,7 +51,7 @@ Published & Under Review
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
-**9. An Efficient Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec**
+**9. [An Efficient Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec](https://www.gerad.ca/en/papers/G-2024-38)**
  - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre, Fournier Julien and El Hallaoui Issmaïl
  - **Under Review**
 
