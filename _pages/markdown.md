@@ -26,7 +26,7 @@ Outreach & Volunteering
 
 Selected Media Coverage
 ------
-- [GERAD Team Wins The EURO Excellence in Practice Award 2024](https://www.gerad.ca/en/posts/1172)
+- [GERAD Team Wins The EURO Excellence in Practice Award 2024](https://www.gerad.ca/en/posts/1172), EURO, 2024
 - [EURO Excellence in Practice Award 2024](https://www.euro-online.org/web/pages/1667/previous-finalists-and-winners), EURO, 2024
 - [A GERAD Team Finalist for the EURO Excellence in Practice Award 2024](https://www.gerad.ca/fr/posts/1157), GERAD, 2024
 - [OCP Optimizes Its Supply Chain For Africa and The World](https://www.euro-online.org/web/pages/1726/eepa-finalists-2024), EURO, 2024
