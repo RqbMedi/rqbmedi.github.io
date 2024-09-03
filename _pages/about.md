@@ -40,6 +40,7 @@ News
 
 Blogs
 ======
+- 28/08/2024: [EURO 2024: Conference, OR Award & Denmark](https://medium.com/@erraqabielmehdi/euro-2024-conference-or-award-denmark-796722944cc7)
 - 02/08/2023: [IFORS 2023: Conference, OR Prize & Chile](https://medium.com/@erraqabielmehdi/ifors-2023-conference-or-prize-chile-1bec27d407de)
 - 08/05/2023: [Discovering the Land of the Hopping Kangaroos: Research & Wildlife](https://www.linkedin.com/pulse/discovering-land-hopping-kangaroos-research-wildlife-er-raqabi?fbclid=IwAR3jyN2Y2w0HqL_qcLFMbUlqGcOnwSSLaajI4_d5p9qz9E2DOLwrN9Ay2BY)
 - 28/03/2023: [Towards Resilience: “Quickly” Re-optimizing Large-scale Problems](https://medium.com/@erraqabielmehdi/towards-resilience-quickly-re-optimizing-large-scale-problems-1d7f923bb866)
