@@ -27,6 +27,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 =====
+- 11/10/2024: Paper "Towards Resilience: Primal Large-scale Re-optimization" was **accepted** to Journal *Transportation Research Part E: Logistics and Transportation Review*.
 - 03/07/2024: Our Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Winner** at the [*EURO Excellence in Practice Award 2024*](https://www.euro-online.org/web/pages/1667/previous-finalists-and-winners).
 - 18/03/2024: Our Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Finalist** at the *EURO Excellence in Practice Award 2024*.
 - 08/02/2023: Talk "*An Efficient Decomposition Matheuristic for the Unit Commitment Problem with Power Stability Constraints*" at ORBEL38.
@@ -35,7 +36,7 @@ News
 - 06/12/2023: Seminar [*“Meet a GERAD Researcher!”*](https://www.gerad.ca/fr/events/2151).
 - 09/11/2023: Industrial Engineering Seminar at Mohammadia School of Engineering.
 - 20/07/2023: Member within the [*IVADO Intersectorial Student Committee*](https://ivado.ca/comite-etudiant/).
-- 30/06/2023: Our Paper "MPILS: An Automatic Tuner for MILP Solvers" was **accepted** to Journal *Computers & Operations Research*.
+- 30/06/2023: Paper "MPILS: An Automatic Tuner for MILP Solvers" was **accepted** to Journal *Computers & Operations Research*.
 - 20/06/2023: Internship at the Hydro-Québec Research Institute (IREQ).
 
 Blogs
