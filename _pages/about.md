@@ -28,8 +28,8 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 News
 =====
 - 11/10/2024: Paper "Towards Resilience: Primal Large-scale Re-optimization" was **accepted** to Journal *Transportation Research Part E: Logistics and Transportation Review*.
-- 03/07/2024: Our Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Winner** at the [*EURO Excellence in Practice Award 2024*](https://www.euro-online.org/web/pages/1667/previous-finalists-and-winners).
-- 18/03/2024: Our Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Finalist** at the *EURO Excellence in Practice Award 2024*.
+- 03/07/2024: Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Winner** at the [*EURO Excellence in Practice Award 2024*](https://www.euro-online.org/web/pages/1667/previous-finalists-and-winners).
+- 18/03/2024: Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Finalist** at the *EURO Excellence in Practice Award 2024*.
 - 08/02/2023: Talk "*An Efficient Decomposition Matheuristic for the Unit Commitment Problem with Power Stability Constraints*" at ORBEL38.
 - 05/02/2023: Visiting Scholar at KU Leuven, Belgium. 
 - 08/12/2023: Talk "*An Electric Vehicle Transitioning Framework for Public Fleet Planning*" at International University of Japan.
