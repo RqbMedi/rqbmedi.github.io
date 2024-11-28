@@ -11,6 +11,7 @@ Conferences & Talks
 ------
 **1. OCP Optimizes its Supply Chain for Africa and The World**
 - EURO Excellence in Practice Award, Copenhagen, Denmark, 2024
+- GERAD Day, Montreal, Canada, 2024
 
 **2.  The Primal Benders Decomposition**
 - 33rd European Conference on Operational Research, Copenhagen, Denmark, 2024
