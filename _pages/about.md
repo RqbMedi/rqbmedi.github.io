@@ -27,7 +27,8 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 =====
-- 20/12/2024: Doctoral Thesis Defense [Announcement](https://www.polymtl.ca/calendrier/evenements/soutenance-de-these-de-doctorat-el-mehdi-er-raqabi-mathematiques).
+- 20/12/2024: I earned my Ph.D. today from Polytechnique Montreal. The jury recommend the thesis for the prize of the best thesis at Polytechnique Montreal.
+- 13/12/2024: Doctoral Thesis Defense [Announcement](https://www.polymtl.ca/calendrier/evenements/soutenance-de-these-de-doctorat-el-mehdi-er-raqabi-mathematiques).
 - 11/10/2024: Paper "Towards Resilience: Primal Large-scale Re-optimization" was **accepted** to Journal *Transportation Research Part E: Logistics and Transportation Review*.
 - 03/07/2024: Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Winner** at the [*EURO Excellence in Practice Award 2024*](https://www.euro-online.org/web/pages/1667/previous-finalists-and-winners).
 - 18/03/2024: Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Finalist** at the *EURO Excellence in Practice Award 2024*.
