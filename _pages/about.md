@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Mehdi. I hold a Ph.D. in Operations Research from Polytechnique Montreal. So far, I have been learning and evolving in Five Countries on Five Continents.
+Hellooooo ! Hi, I am Mehdi. I hold a Ph.D. in Operations Research from Polytechnique Montreal. So far, I have been learning and evolving in Five Countries on Five Continents.
 
 [comment]: <> (Update: In my beloved country Morocco, I acquired the Value of Believing. In Japan, I understood the Value of Hardwork. In Canada, I witnessed the Value of Excellence. In Australia, I am looking forward to confirming the Value of Consistency. I am very grateful to these dear countries :-))
 
