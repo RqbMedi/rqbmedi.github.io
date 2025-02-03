@@ -62,4 +62,4 @@ Blogs
 [comment]: <> (- 31/07/2022: [The Role of Internships in Tuning the Career Compass](https://www.linkedin.com/pulse/role-internships-tuning-career-compass-er-raqabi-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3/)
 [comment]: <> (- 29/06/2022: [The Benders Decomposition](https://erraqabielmehdi.medium.com/the-benders-decomposition-8dadf381f60c)
 
-![Four Countries Four Continents](http://rqbmedi.github.io/images/MAP.jpeg)
+![Six Countries Five Continents](http://rqbmedi.github.io/images/MAP.png)
