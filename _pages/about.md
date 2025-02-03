@@ -29,7 +29,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 =====
-- 01/02/2025: I started my Postdoc at Georgia Institute of Technology.
+- 01/02/2025: I started my Postdoc at the Georgia Institute of Technology.
 - 22/01/2025: Paper "OCP Optimizes Its Supply Chain for Africa" was **accepted** to Journal *INFORMS Journal on Applied Analytics*.
 - 20/12/2024: I earned my Ph.D. today. The jury has recommended the thesis for the **Best Thesis Prize** at Polytechnique Montreal.
 - 13/12/2024: Doctoral Thesis Defense [Announcement](https://www.polymtl.ca/calendrier/evenements/soutenance-de-these-de-doctorat-el-mehdi-er-raqabi-mathematiques).
