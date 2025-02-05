@@ -9,6 +9,15 @@ redirect_from:
 
 Before reaching the current state, I have been diversifying my experiences between research and business.
   
+
+Academic Appointment
+------
+**1. Georgia Institute of Technology (GaTech)**<br>
+Postdoctoral Fellow (Full-Time), 2025 - Present
+ - Faculty: H. Milton Stewart School of Industrial \& Systems Engineering
+ - Lab: The NSF AI Research Institute for Advances in Optimization (AI4OPT)
+ - Mentor: Prof. Pascal Van Hentenryck
+
 Research Experience
 ------
 **1. Katholieke Universiteit Leuven (KU Leuven)**<br>
@@ -28,7 +37,7 @@ Visiting Scholar (Full-Time), 2023
  - Location: Gold Coast, Australia
 
 **3. Groupe d’études et de recherche en analyse des décisions (Gerad)**<br>
-Research Assistant (Full-Time), 2020 - Present
+Research Assistant (Full-Time), 2020 - 2025
  - Advisors: Profs. El Hallaoui Issmaïl & Soumis François
  - Research Areas: Operations Research, Large-Scale Optimization, Decompositions, Metaheuristics, Solvers, Data Science, Machine Learning for Operations Research
  - Applications: Airline, Mining, Transportation, Operations and Supply Chain Management
