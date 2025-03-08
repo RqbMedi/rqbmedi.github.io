@@ -29,7 +29,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 =====
-- 07/08/2025: My Thesis was **awarded** the MAGI Best Thesis 2024 Prize at Polytechnique Montreal.
+- 07/03/2025: My Thesis was **awarded** the MAGI Best Thesis 2024 Prize at Polytechnique Montreal.
 - 01/02/2025: I started my Postdoc at the Georgia Institute of Technology.
 - 22/01/2025: Paper "OCP Optimizes Its Supply Chain for Africa" was **accepted** to Journal *INFORMS Journal on Applied Analytics*.
 - 20/12/2024: I earned my Ph.D. today. The jury has recommended the thesis for the **Best Thesis Prize** at Polytechnique Montreal.
