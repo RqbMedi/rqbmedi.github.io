@@ -48,6 +48,7 @@ News
 
 Blogs
 ======
+- 25/02/2025: [François Soumis: "Une Carrière Scientifique en Or"](https://www.linkedin.com/pulse/fran%C3%A7ois-soumis-une-carri%C3%A8re-scientifique-en-el-mehdi-er-raqabi-wq85e/)
 - 16/01/2025: [Ten Insights from my Ph.D. Journey](https://www.linkedin.com/pulse/ten-insights-from-my-phd-journey-el-mehdi-er-raqabi-xttpe/)
 - 28/08/2024: [EURO 2024: Conference, OR Award & Denmark](https://medium.com/@erraqabielmehdi/euro-2024-conference-or-award-denmark-796722944cc7)
 - 02/08/2023: [IFORS 2023: Conference, OR Prize & Chile](https://medium.com/@erraqabielmehdi/ifors-2023-conference-or-prize-chile-1bec27d407de)
