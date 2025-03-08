@@ -64,10 +64,15 @@ Working Papers
 **11. The Stochastic Improved Primal Simplex**
  - Authors: **Er Raqabi El Mehdi**, El Fassi Mohamed, Leus Roel and El Hallaoui Issmaïl
 
-**12. A Parallel Multi-Purpose Tuner for MIP Solvers**
- - Authors: **Er Raqabi El Mehdi**, Siwane Oussama, El Hallaoui Issmaïl and Beljadid Ahmed 
+**12. The Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
+ - Authors: **Er Raqabi El Mehdi**, Dalmeijer Kevin and Van Hentenryck Pascal
+
+**12. Real Time Equipment Allocation in Ground Network**
+ - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
 <br>
 (*: Equal Contribution)
 
  [comment]: <> (- **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*)
+
+ [comment]: <> (**12. A Parallel Multi-Purpose Tuner for MIP Solvers** - Authors: **Er Raqabi El Mehdi**, Siwane Oussama, El Hallaoui Issmaïl and Beljadid Ahmed )
