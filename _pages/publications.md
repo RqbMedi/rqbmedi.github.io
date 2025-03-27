@@ -9,33 +9,33 @@ author_profile: true
 
 Published & Under Review
 ------
-**1. [Towards Resilience: Primal Large-scale Re-optimization](https://doi.org/10.1016/j.tre.2024.103819)**
- - Authors: **Er Raqabi El Mehdi**, Wu Yong, El Hallaoui Issmaïl and Soumis François
- - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - **Published** in *Transportation Research Part E: Logistics and Transportation Review*, 2024
-
-**2. [Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain](https://www.sciencedirect.com/science/article/pii/S0305048322002274)**
- - Authors: **Er Raqabi El Mehdi**, Himmich Ilyas, El Hachemi Nizar, El Hallaoui Issmaïl and Soumis François
- - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
- - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - **Published** in *Omega*, 2023
-
-**3. [MPILS: An Automatic Tuner for MILP Solvers](https://www.sciencedirect.com/science/article/pii/S0305054823002083)** 
- - Authors: Himmich Ilyas∗, **Er Raqabi El Mehdi**∗, El Hachemi Nizar, El Hallaoui Issmaïl, Metrane Abdelmoutalib and Soumis François
- - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
- - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - **Published** in *Computers & Operations Research*, 2023
-
-**4. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
- - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
- - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
-
-**5. [OCP Optimizes its Supply Chain for Africa](https://doi.org/10.1287/inte.2023.0073)**
+**1. [OCP Optimizes its Supply Chain for Africa](https://doi.org/10.1287/inte.2023.0073)**
  - Authors: **Er Raqabi El Mehdi**, Beljadid Ahmed, Bennouna Mohammed Ali, Bennouna Rania, Boussaadi Latifa, El Hachemi Nizar, El Hallaoui Issmail, Fender Michel, Jamali Mohamed Anouar, Si Hammou Nabil and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - **Winner** at the *EURO Excellence in Practice Award 2024*
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
  - **Published** in *INFORMS Journal on Applied Analytics*, 2025
+
+**2. [Towards Resilience: Primal Large-scale Re-optimization](https://doi.org/10.1016/j.tre.2024.103819)**
+ - Authors: **Er Raqabi El Mehdi**, Wu Yong, El Hallaoui Issmaïl and Soumis François
+ - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
+ - **Published** in *Transportation Research Part E: Logistics and Transportation Review*, 2024
+
+**3. [Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain](https://www.sciencedirect.com/science/article/pii/S0305048322002274)**
+ - Authors: **Er Raqabi El Mehdi**, Himmich Ilyas, El Hachemi Nizar, El Hallaoui Issmaïl and Soumis François
+ - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
+ - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
+ - **Published** in *Omega*, 2023
+
+**4. [MPILS: An Automatic Tuner for MILP Solvers](https://www.sciencedirect.com/science/article/pii/S0305054823002083)** 
+ - Authors: Himmich Ilyas∗, **Er Raqabi El Mehdi**∗, El Hachemi Nizar, El Hallaoui Issmaïl, Metrane Abdelmoutalib and Soumis François
+ - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
+ - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
+ - **Published** in *Computers & Operations Research*, 2023
+
+**5. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
+ - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
+ - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
 
 **6. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
  - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
