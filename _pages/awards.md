@@ -11,8 +11,8 @@ During my curriculum, I have been generously supported by various entities inclu
 
 Honors & Awards
 ------
-- 2025 - GERAD 2024 Best Thesis Competition, GERAD.
-- 2025 - MAGI 2024 Best Thesis Prize, Polytechnique Montreal.
+- 2025 - GERAD 2024 Best Thesis Competition, GERAD
+- 2025 - MAGI 2024 Best Thesis Prize, Polytechnique Montreal
 - 2024 - EURO Excellence in Practice Award, **Winner**, **$4,500**, EURO
 - 2023 - MITACS Accelerate Fellowship, **$30,000**, MITACS
 - 2023 - IFORS Prize for OR in Development, **Finalist**, IFORS
