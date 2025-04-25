@@ -26,6 +26,7 @@ Outreach & Volunteering
 
 Selected Media Coverage
 ------
+- [El Mehdi Er Raqabi Wins The 2024 GERAD Best Thesis Competition](https://www.gerad.ca/en/posts/1237), GERAD, 2025
 - [GERAD Team Wins The EURO Excellence in Practice Award 2024](https://www.gerad.ca/en/posts/1172), EURO, 2024
 - [EURO Excellence in Practice Award 2024](https://www.euro-online.org/web/pages/1667/previous-finalists-and-winners), EURO, 2024
 - [A GERAD Team Finalist for the EURO Excellence in Practice Award 2024](https://www.gerad.ca/fr/posts/1157), GERAD, 2024
