@@ -14,6 +14,7 @@ Conferences & Talks
 - GERAD Day, Montreal, Canada, 2024
 
 **2.  The Primal Benders Decomposition**
+- Joint Seminar CIRRELT & OSD Department, Quebec, Canada, 2025
 - 33rd European Conference on Operational Research, Copenhagen, Denmark, 2024
 
 **3. Towards Resilience: Primal Large-Scale Re-Optimization**
