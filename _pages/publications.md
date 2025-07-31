@@ -67,7 +67,7 @@ Working Papers
 **12. The Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
  - Authors: **Er Raqabi El Mehdi**, Dalmeijer Kevin and Van Hentenryck Pascal
 
-**13. Real Time Equipment Allocation in Ground Network**
+**13. A Fairness Framework for Resource Substitution in Large Networks**
  - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
 **14. Workshop Design with Flow Optimization and Robot Planning**
