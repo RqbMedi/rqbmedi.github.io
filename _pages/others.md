@@ -17,10 +17,19 @@ Postdoctoral Fellow (Full-Time), 2025 - Present
  - Faculty: H. Milton Stewart School of Industrial \& Systems Engineering
  - Lab: The NSF AI Research Institute for Advances in Optimization (AI4OPT)
  - Mentor: Prof. Pascal Van Hentenryck
+ - Roles: Research (designing methodology and supervising students), Industry (visiting companies and designing SOWs), Teaching (from high school to graduate students), Service (popularizing science)
 
 Research Experience
 ------
-**1. Katholieke Universiteit Leuven (KU Leuven)**<br>
+**1. AI Research Institute for Advances in Optimization (NSF AI4OPT)**<br>
+Visiting Scholar (Full-Time), 2024
+ - Mentor: Prof. Pascal Van Hentenryck
+ - Research Areas: Operations Research, Machine Learning, Optimization Proxies, Logistics, Large-Scale Optimization, Mathematical Programming
+ - Applications: Transportation, Production, Manufacturing, Operations and Supply Chain Management
+ - Collaborations with various US Companies
+ - Location: Atlanta, USA
+
+**2. Katholieke Universiteit Leuven (KU Leuven)**<br>
 Visiting Scholar (Full-Time), 2024
  - Advisors: Prof. Roel Leus
  - Research Areas: Operations Research, Re-optimization, Benders Decomposition, Improved Primal Simplex, Large-Scale Optimization
@@ -28,7 +37,7 @@ Visiting Scholar (Full-Time), 2024
  - Collaborations with OCP Group and UM6P
  - Location: Leuven, Belgium
 
-**2. Griffith University (Griff)**<br>
+**3. Griffith University (Griff)**<br>
 Visiting Scholar (Full-Time), 2023
  - Advisors: Prof. Yong Wu
  - Research Areas: Operations Research, Re-optimization, Resilience, Supply Chain Management, Machine Learning for Operations Research
@@ -36,7 +45,7 @@ Visiting Scholar (Full-Time), 2023
  - Collaborations with OCP Group and UM6P
  - Location: Gold Coast, Australia
 
-**3. Groupe d’études et de recherche en analyse des décisions (Gerad)**<br>
+**4. Groupe d’études et de recherche en analyse des décisions (Gerad)**<br>
 Research Assistant (Full-Time), 2020 - 2025
  - Advisors: Profs. El Hallaoui Issmaïl & Soumis François
  - Research Areas: Operations Research, Large-Scale Optimization, Decompositions, Metaheuristics, Solvers, Data Science, Machine Learning for Operations Research
@@ -44,7 +53,7 @@ Research Assistant (Full-Time), 2020 - 2025
  - Collaborations with OCP Group, UM6P, Laminaar, and IVADO
  - Location: Montreal, Canada
 
-**4. International University of Japan**<br>
+**5. International University of Japan**<br>
 Research Project (Full-Time), 2018 - 2019
  - Advisor: Prof. Li Wenkai
  - Research Areas: Operations Research, Transportation, Electric Vehicles
