@@ -70,6 +70,9 @@ Working Papers
 **13. Real Time Equipment Allocation in Ground Network**
  - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
+**14. Workshop Design with Flow Optimization and Robot Planning**
+ - Authors: Arnovi Moinuddin, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
+
 <br>
 (*: Equal Contribution)
 
