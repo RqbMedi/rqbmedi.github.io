@@ -29,6 +29,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 =====
+- 14/08/2025: Paper "A Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec" was **accepted** to Journal *IEEE Transactions on Power Systems*.
 - 24/04/2025: My Thesis was **awarded** the GERAD 2024 Best Thesis Competition at GERAD.
 - 07/03/2025: My Thesis was **awarded** the MAGI 2024 Best Thesis Prize at Polytechnique Montreal.
 - 01/02/2025: I started my Postdoc at the Georgia Institute of Technology.
