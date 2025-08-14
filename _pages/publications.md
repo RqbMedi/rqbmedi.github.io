@@ -20,57 +20,61 @@ Published & Under Review
  - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre, Fournier Julien and El Hallaoui Issmaïl
  - **Published** in *IEEE Transactions on Power Systems*, 2025
 
-**3. [Towards Resilience: Primal Large-scale Re-optimization](https://doi.org/10.1016/j.tre.2024.103819)**
+**3. [Primal Methods For Very Large-scale Optimization](https://publications.polymtl.ca/61691/)**
+ - Authors: **Er Raqabi El Mehdi** 
+ - Ph.D. Thesis, Polytechnique Montreal, 2024
+
+**4. [Towards Resilience: Primal Large-scale Re-optimization](https://doi.org/10.1016/j.tre.2024.103819)**
  - Authors: **Er Raqabi El Mehdi**, Wu Yong, El Hallaoui Issmaïl and Soumis François
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Published** in *Transportation Research Part E: Logistics and Transportation Review*, 2024
 
-**4. [Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain](https://www.sciencedirect.com/science/article/pii/S0305048322002274)**
+**5. [Incremental LNS Framework for Integrated Production, Inventory, and Vessel Scheduling: Application to a Global Supply Chain](https://www.sciencedirect.com/science/article/pii/S0305048322002274)**
  - Authors: **Er Raqabi El Mehdi**, Himmich Ilyas, El Hachemi Nizar, El Hallaoui Issmaïl and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Published** in *Omega*, 2023
 
-**5. [MPILS: An Automatic Tuner for MILP Solvers](https://www.sciencedirect.com/science/article/pii/S0305054823002083)** 
+**6. [MPILS: An Automatic Tuner for MILP Solvers](https://www.sciencedirect.com/science/article/pii/S0305054823002083)** 
  - Authors: Himmich Ilyas∗, **Er Raqabi El Mehdi**∗, El Hachemi Nizar, El Hallaoui Issmaïl, Metrane Abdelmoutalib and Soumis François
  - Deployed by our industry collaborator OCP Group, estimated impact of 5% in incremental turnover annually
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Published** in *Computers & Operations Research*, 2023
 
-**6. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
+**7. [An Electric Vehicle Transitioning Framework for Public Fleet Planning](https://www.sciencedirect.com/science/article/pii/S1361920923001293)**
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
  - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
 
-**7. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
+**8. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
  - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Under Review**
 
-**8. [Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management](https://www.gerad.ca/en/papers/G-2024-18)**
+**9. [Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management](https://www.gerad.ca/en/papers/G-2024-18)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
-**9. [The Petrol Station Replenishment Problem: A Case Study from West Africa](https://www.gerad.ca/en/papers/G-2024-19)**
+**10. [The Petrol Station Replenishment Problem: A Case Study from West Africa](https://www.gerad.ca/en/papers/G-2024-19)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
-**10. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
+**11. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
  - Master’s Thesis, International University of Japan, 2019
 
 Working Papers
 ------
 
-**11. The Stochastic Improved Primal Simplex**
+**12. The Stochastic Improved Primal Simplex**
  - Authors: **Er Raqabi El Mehdi**, El Fassi Mohamed, Leus Roel and El Hallaoui Issmaïl
 
-**12. The Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
+**13. The Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
  - Authors: **Er Raqabi El Mehdi**, Dalmeijer Kevin and Van Hentenryck Pascal
 
-**13. A Fairness Framework for Resource Substitution in Large Networks**
+**14. A Fairness Framework for Resource Substitution in Large Networks**
  - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
-**14. Workshop Design with Flow Optimization and Robot Planning**
+**15. Workshop Design with Flow Optimization and Robot Planning**
  - Authors: Arnovi Moinuddin, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
 <br>
