@@ -16,7 +16,7 @@ Published & Under Review
  - **Finalist** at the *IFORS Prize for OR in Development 2023*
  - **Published** in *INFORMS Journal on Applied Analytics*, 2025
 
-**2. [A Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec](https://www.gerad.ca/en/papers/G-2024-38)**
+**2. [A Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec](https://doi.org/10.1109/TPWRS.2025.3599746)**
  - Authors: **Er Raqabi El Mehdi**, Bani Abderrahman, Morabit Mouad, Blondin Alexandre, Besner Alexandre, Fournier Julien and El Hallaoui Issmaïl
  - **Published** in *IEEE Transactions on Power Systems*, 2025
 
