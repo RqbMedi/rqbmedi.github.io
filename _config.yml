@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Er Raqabi El Mehdi"
+name                     : &name "El Mehdi Er Raqabi"
 description              : &description "Welcome to My Personal Website"
 url                      : https://rqbmedi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
