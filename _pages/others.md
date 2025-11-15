@@ -22,7 +22,7 @@ Postdoctoral Fellow (Full-Time), 2025 - Present
 Research Experience
 ------
 **1. AI Research Institute for Advances in Optimization (NSF AI4OPT)**<br>
-Visiting Scholar (Full-Time), 2024
+Visiting Scholar (Full-Time), 2025
  - Mentor: Prof. Pascal Van Hentenryck
  - Research Areas: Operations Research, Machine Learning, Optimization Proxies, Logistics, Large-Scale Optimization, Mathematical Programming
  - Applications: Transportation, Production, Manufacturing, Operations and Supply Chain Management
