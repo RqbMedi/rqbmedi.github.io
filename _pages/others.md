@@ -10,7 +10,7 @@ redirect_from:
 Before reaching the current state, I have been diversifying my experiences between research and business.
   
 
-Academic Appointment
+Academic Appointments
 ------
 **1. Laval University (ULaval)**<br>
 Incoming Assistant Professor (Full-Time), 2026 - Present
