@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: #"Personal Website"
+title: "Personal Website"
 author_profile: true
 ---
 
