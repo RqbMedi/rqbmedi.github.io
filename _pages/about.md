@@ -4,7 +4,7 @@ title: #"Personal Website"
 author_profile: true
 ---
 
-Hello :smile: ! **I am hiring Postdocs, Ph.D. Students, and Ph.D. Interns**. Please email the following: 
+Hello 😄 ! **I am hiring Postdocs, Ph.D. Students, and Ph.D. Interns**. Please email the following: 
 
 1. Curriculum Vitae and Transcripts, 
 2. Briefly, why do you want to purse a Postdoc, Ph.D. Program, or Ph.D. Internship? 
