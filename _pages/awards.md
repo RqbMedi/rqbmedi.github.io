@@ -7,10 +7,8 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-During my curriculum, I have been generously supported by various entities including universities, governmental institutions, and private organizations. This support is deeply appreciated.
+During my curriculum, I have been generously supported by various entities including universities, governmental institutions, and private organizations. This support is deeply appreciated. I also got several Honors & Awards.
 
-Honors & Awards
-------
 - 2025 - GERAD 2024 Best Thesis Competition, **$3,000**, GERAD
 - 2025 - MAGI 2024 Best Thesis Prize, Polytechnique Montreal
 - 2024 - EURO Excellence in Practice Award, **Winner**, **$4,500**, EURO
