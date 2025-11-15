@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Story"
+    url: /story/
+
   - title: "Publications"
     url: /publications/
 
