@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Research Interests:** Operations Research, Large-scale Optimization, Data Science, Machine Learning for Operations Research, Metaheuristics, Algorithm Configuration, Solvers
+**Research Interests:** Operations Research, Management Science, Large-Scale Optimization, Machine Learning for Operations Research, Optimization Proxies, Metaheuristics, Algorithm Configuration, Solvers
 
 Publications
 ====
