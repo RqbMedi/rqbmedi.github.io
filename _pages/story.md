@@ -3,7 +3,7 @@ permalink: /
 title: #"Personal Website"
 author_profile: true
 redirect_from: 
-  - /atory/
+  - /story/
   - /story.html
 ---
 
