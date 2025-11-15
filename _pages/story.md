@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: #"Personal Website"
+layout: archive
+title: #"Story"
+permalink: /story/
 author_profile: true
-redirect_from: 
-  - /story/
-  - /story.html
 ---
 
 So far, I have been learning and evolving in Six Countries on Five Continents.
