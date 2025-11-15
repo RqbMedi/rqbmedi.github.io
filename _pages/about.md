@@ -42,22 +42,4 @@ News
 - 30/06/2023: Paper "MPILS: An Automatic Tuner for MILP Solvers" was **accepted** to Journal *Computers & Operations Research*.
 - 20/06/2023: Internship at the Hydro-Québec Research Institute (IREQ).
 
-Blogs
-======
-- 25/02/2025: [François Soumis: "Une Carrière Scientifique en Or"](https://www.linkedin.com/pulse/fran%C3%A7ois-soumis-une-carri%C3%A8re-scientifique-en-el-mehdi-er-raqabi-wq85e/)
-- 16/01/2025: [Ten Insights from my Ph.D. Journey](https://www.linkedin.com/pulse/ten-insights-from-my-phd-journey-el-mehdi-er-raqabi-xttpe/)
-- 28/08/2024: [EURO 2024: Conference, OR Award & Denmark](https://medium.com/@erraqabielmehdi/euro-2024-conference-or-award-denmark-796722944cc7)
-- 02/08/2023: [IFORS 2023: Conference, OR Prize & Chile](https://medium.com/@erraqabielmehdi/ifors-2023-conference-or-prize-chile-1bec27d407de)
-- 08/05/2023: [Discovering the Land of the Hopping Kangaroos: Research & Wildlife](https://www.linkedin.com/pulse/discovering-land-hopping-kangaroos-research-wildlife-er-raqabi?fbclid=IwAR3jyN2Y2w0HqL_qcLFMbUlqGcOnwSSLaajI4_d5p9qz9E2DOLwrN9Ay2BY)
-- 28/03/2023: [Towards Resilience: “Quickly” Re-optimizing Large-scale Problems](https://medium.com/@erraqabielmehdi/towards-resilience-quickly-re-optimizing-large-scale-problems-1d7f923bb866)
-- 28/12/2022: [World Cup 2022: Between Predicted & Actual Outcomes](https://www.linkedin.com/pulse/world-cup-2022-between-predicted-actual-outcomes-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3)
-- 22/11/2022: [Beyond Classical Optimization Paradigms: Robustness, Fairness & Others](https://erraqabielmehdi.medium.com/beyond-classical-optimization-paradigms-robustness-fairness-others-dce754836c0d)
-- 31/10/2022: [Organization, Prioritization, Consistency & Patience: Keys for Hectic Schedules](https://www.linkedin.com/pulse/organization-prioritization-consistency-patience-keys-er-raqabi/?trackingId=SwNT9X4wQ6%2BXu%2FHBCCnE8A%3D%3D)
-- 28/09/2022: [Metaheuristics: Favorising Time over Quality](https://erraqabielmehdi.medium.com/metaheuristics-favorising-time-over-quality-1c0c7a68fa37)
-- More Blogs can be found [here](https://rqbmedi.github.io/portfolio/). 
-
-[comment]: <> (- 30/08/2022: [Automatic Algorithm Configuration for Optimization Solvers](https://erraqabielmehdi.medium.com/automatic-algorithm-configuration-for-optimization-solvers-66ac3861a233)
-[comment]: <> (- 31/07/2022: [The Role of Internships in Tuning the Career Compass](https://www.linkedin.com/pulse/role-internships-tuning-career-compass-er-raqabi-el-mehdi-%E3%83%A9%E3%82%AB%E3%83%93-%E3%83%A1%E3%83%87%E3%82%A3/)
-[comment]: <> (- 29/06/2022: [The Benders Decomposition](https://erraqabielmehdi.medium.com/the-benders-decomposition-8dadf381f60c)
-
 ![Six Countries Five Continents](http://rqbmedi.github.io/images/MAP.png)
