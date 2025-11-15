@@ -102,9 +102,11 @@ Publications
 **Current Ph.D. Students**
  - Ved Mohan (Advisor: Pascal Van Hentenryck)
  - Moinuddin Arnovi (Advisor: Pascal Van Hentenryck)
- - Ye Joe (Advisor: Pascal Van Hentenryck) 
+ - Ye Joe (Advisor: Pascal Van Hentenryck)
+
 **Former Ph.D. Interns**
  - Junyang Cai (AI4OPT, Gatech, April 2025)   
+ 
 **Former Undergraduate Interns**
  - Chetan Reddy Bojja (ISyE \& AI4OPT, GaTech, March-June 2025)    
  - Ryan J Rodriguez (ISyE \& AI4OPT, GaTech, February-May 2025)
