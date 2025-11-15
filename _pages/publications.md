@@ -7,6 +7,9 @@ author_profile: true
 
 **Research Interests:** Operations Research, Large-scale Optimization, Data Science, Machine Learning for Operations Research, Metaheuristics, Algorithm Configuration, Solvers
 
+Publications
+====
+
 Published & Under Review
 ------
 **1. [OCP Optimizes its Supply Chain for Africa](https://doi.org/10.1287/inte.2023.0073)**
