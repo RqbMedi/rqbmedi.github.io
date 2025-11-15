@@ -12,8 +12,16 @@ Before reaching the current state, I have been diversifying my experiences betwe
 
 Academic Appointment
 ------
-**1. Georgia Institute of Technology (GaTech)**<br>
-Postdoctoral Fellow (Full-Time), 2025 - Present
+**1. Laval University (ULaval)**<br>
+Incoming Assistant Professor (Full-Time), 2026 - Present
+ - Faculty: Faculty of Business Administration (FSA)
+ - Department: Operations and Decision Systems (DSO)
+ - Labs: The Interuniversity Research Centre on Enterprise Networks, Logistics and Transportation (CIRRELT) and The Group for Research in Decision Analysis (GERAD)
+ - Mentor: Prof. Pascal Van Hentenryck
+ - Roles: Research, Teaching, Service
+
+**2. Georgia Institute of Technology (GaTech)**<br>
+Postdoctoral Fellow (Full-Time), 2025
  - Faculty: H. Milton Stewart School of Industrial \& Systems Engineering
  - Lab: The NSF AI Research Institute for Advances in Optimization (AI4OPT)
  - Mentor: Prof. Pascal Van Hentenryck
