@@ -15,6 +15,8 @@ My Research has been generously supported by numerous organizations including: t
 
 My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
+**I am hiring Postdocs, Ph.D. Students, and Ph.D. Interns**. Please email the following: (1) Curriculum Vitae, (2) Why do you want to purse a Postdoc/Ph.D.? (3) Why do you want to work with me?
+
 Contact: el-mehdi.er-raqabi [at] polymtl [dot] ca
 
 News
