@@ -82,3 +82,29 @@ Working Papers
 
 <br>
 (*: Equal Contribution)
+
+Grants
+====
+**[Learning Decompositions: A Smart Approach to Large Problems](https://app.dimensions.ai/details/grant/grant.9716929)**
+ - Organization: Fonds de Recherche du Québec – Nature et Technologies (FRQNT)
+ - Role: Principal Investigator
+ - Amount: $84,000
+ - Period: 2021-2025
+
+**Decomposition Learning: An Intelligent Framework For Large Scale Optimization Problems**
+ - Organization: Institute for Data Valorization (IVADO)
+ - Role: Principal Investigator
+ - Amount: $75,000
+ - Period: 2021-2024 
+
+Publications
+====
+**Current Ph.D. Students**
+ - Ved Mohan (Advisor: Pascal Van Hentenryck)
+ - Moinuddin Arnovi (Advisor: Pascal Van Hentenryck)
+ - Ye Joe (Advisor: Pascal Van Hentenryck) 
+**Former Ph.D. Interns**
+ - Junyang Cai (AI4OPT, Gatech, April 2025)   
+**Former Undergraduate Interns**
+ - Chetan Reddy Bojja (ISyE \& AI4OPT, GaTech, March-June 2025)    
+ - Ryan J Rodriguez (ISyE \& AI4OPT, GaTech, February-May 2025)
