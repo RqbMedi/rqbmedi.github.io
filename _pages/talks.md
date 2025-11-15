@@ -7,8 +7,11 @@ author_profile: true
 
 I do enjoy giving talks and participating in conferences.
 
-Conferences & Talks
+Conferences, Talks & Posters
 ------
+**1. A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks**
+- INFORMS Annual Meeting, Atlanta, USA, 2025
+
 **1. OCP Optimizes its Supply Chain for Africa and The World**
 - EURO Excellence in Practice Award, Copenhagen, Denmark, 2024
 - GERAD Day, Montreal, Canada, 2024
