@@ -11,7 +11,7 @@ I obtained my Ph.D. in Operations Research from the Mathematics and Industrial E
 
 My research focuses on primal techniques for large-scale optimization. Specifically, I have been exploring the full optimization spectrum that goes from using optimization solvers to using optimization proxies. The full spectrum can be decomposed into four overlapping perspectives: *solver* (commercial, open-source, etc.), *metaheuristics* (local search, simulated annealing, etc.), *exact* (decompositions, branch-and-price, etc.), and *learning* (supervised, unsupervised, etc.).
 
-My Research has been generously supported by numerous organizations including: the U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), the Fonds de Recherche du Québec - Nature et Technologie ([FRQNT](https://frq.gouv.qc.ca/en/)), the Institut de Valorisation des Données ([IVADO](https://ivado.ca/en/)), the Mathematics of Information Technology and Complex Systems ([MITACS](https://www.mitacs.ca/)), and the Japan International Cooperation Agency([JICA](https://www.jica.go.jp/english/)).
+My Research has been generously supported by numerous organizations including: the U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), the Fonds de Recherche du Québec - Nature et Technologie ([FRQNT](https://frq.gouv.qc.ca/en/)), the Institut de Valorisation des Données ([IVADO](https://ivado.ca/en/)), the Mathematics of Information Technology and Complex Systems ([MITACS](https://www.mitacs.ca/)), and the Japan International Cooperation Agency ([JICA](https://www.jica.go.jp/english/)).
 
 My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
