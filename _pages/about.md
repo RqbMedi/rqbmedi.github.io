@@ -41,13 +41,4 @@ News
 - 03/07/2024: Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Winner** at the [*EURO Excellence in Practice Award 2024*](https://www.euro-online.org/web/pages/1667/previous-finalists-and-winners).
 - 18/03/2024: Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Finalist** at the *EURO Excellence in Practice Award 2024*.
 
-[comment]: <> - 08/02/2023: Talk "*An Efficient Decomposition Matheuristic for the Unit Commitment Problem with Power Stability Constraints*" at ORBEL38.
-[comment]: <> - 05/02/2023: Visiting Scholar at KU Leuven, Belgium. 
-[comment]: <> - 08/12/2023: Talk "*An Electric Vehicle Transitioning Framework for Public Fleet Planning*" at International University of Japan.
-[comment]: <> - 06/12/2023: Seminar [*“Meet a GERAD Researcher!”*](https://www.gerad.ca/fr/events/2151).
-[comment]: <> - 09/11/2023: Industrial Engineering Seminar at Mohammadia School of Engineering.
-[comment]: <> - 20/07/2023: Member within the [*IVADO Intersectorial Student Committee*](https://ivado.ca/comite-etudiant/).
-[comment]: <> - 30/06/2023: Paper "MPILS: An Automatic Tuner for MILP Solvers" was **accepted** to Journal *Computers & Operations Research*.
-[comment]: <> - 20/06/2023: Internship at the Hydro-Québec Research Institute (IREQ).
-
 ![Six Countries Five Continents](http://rqbmedi.github.io/images/MAP.png)
