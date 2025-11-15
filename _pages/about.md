@@ -18,7 +18,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 **I am hiring Postdocs, Ph.D. Students, and Ph.D. Interns**. Please email the following: 
 
 1. Curriculum Vitae and Transcripts, 
-2. Briefly, why do you want to purse a Ph.D. Program, Ph.D. Internship, or Postdoc? 
+2. Briefly, why do you want to purse a Postdoc, Ph.D. Program, or Ph.D. Internship? 
 3. Briefly, why do you want to work with me? 
 4. What is your caree plan, e.g., Academia or Industry?
 
