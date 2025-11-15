@@ -108,5 +108,5 @@ Supervision
  - Junyang Cai (AI4OPT, Gatech, April 2025)   
 
 **Former Undergraduate Interns**
- - Chetan Reddy Bojja (ISyE \& AI4OPT, GaTech, March-June 2025)    
- - Ryan J Rodriguez (ISyE \& AI4OPT, GaTech, February-May 2025)
+ - Chetan Reddy Bojja (ISyE & AI4OPT, GaTech, March-June 2025)    
+ - Ryan J Rodriguez (ISyE & AI4OPT, GaTech, February-May 2025)
