@@ -4,7 +4,7 @@ title: #"Personal Website"
 author_profile: true
 ---
 
-Hello ! **I am hiring Postdocs, Ph.D. Students, and Ph.D. Interns**. Please email the following: 
+Hello :smile: ! **I am hiring Postdocs, Ph.D. Students, and Ph.D. Interns**. Please email the following: 
 
 1. Curriculum Vitae and Transcripts, 
 2. Briefly, why do you want to purse a Postdoc, Ph.D. Program, or Ph.D. Internship? 
@@ -29,16 +29,15 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 
 News
 ------
-- 14/11/2025: I will join *FSA Laval* as an Assistant Professor starting January 2026 !
-- 14/08/2025: Paper "A Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec" was **accepted** to Journal *IEEE Transactions on Power Systems*.
-- 24/04/2025: My Thesis was **awarded** the GERAD 2024 Best Thesis Competition at GERAD.
-- 07/03/2025: My Thesis was **awarded** the MAGI 2024 Best Thesis Prize at Polytechnique Montreal.
-- 01/02/2025: I started my Postdoc at the Georgia Institute of Technology.
-- 22/01/2025: Paper "OCP Optimizes Its Supply Chain for Africa" was **accepted** to Journal *INFORMS Journal on Applied Analytics*.
-- 20/12/2024: I earned my Ph.D. today. The jury has recommended the thesis for the **Best Thesis Prize** at Polytechnique Montreal.
-- 13/12/2024: Doctoral Thesis Defense [Announcement](https://www.polymtl.ca/calendrier/evenements/soutenance-de-these-de-doctorat-el-mehdi-er-raqabi-mathematiques).
-- 11/10/2024: Paper "Towards Resilience: Primal Large-scale Re-optimization" was **accepted** to Journal *Transportation Research Part E: Logistics and Transportation Review*.
-- 03/07/2024: Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Winner** at the [*EURO Excellence in Practice Award 2024*](https://www.euro-online.org/web/pages/1667/previous-finalists-and-winners).
-- 18/03/2024: Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Finalist** at the *EURO Excellence in Practice Award 2024*.
+- 14/11/2025: I will join *Laval University* as an **Assistant Professor** starting January 2026 :rocket:
+- 14/08/2025: Paper "A Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec" was **accepted** to Journal *IEEE Transactions on Power Systems* :tada:
+- 24/04/2025: My Thesis was **awarded** the GERAD 2024 Best Thesis Competition at GERAD :tada:
+- 07/03/2025: My Thesis was **awarded** the MAGI 2024 Best Thesis Prize at Polytechnique Montreal :tada:
+- 01/02/2025: I started my Postdoc at the Georgia Institute of Technology :rocket:
+- 22/01/2025: Paper "OCP Optimizes Its Supply Chain for Africa" was **accepted** to Journal *INFORMS Journal on Applied Analytics* :tada:
+- 20/12/2024: I earned my Ph.D. today. The jury has recommended the thesis for the **Best Thesis Prize** at Polytechnique Montreal 
+- 13/12/2024: Doctoral Thesis Defense [Announcement](https://www.polymtl.ca/calendrier/evenements/soutenance-de-these-de-doctorat-el-mehdi-er-raqabi-mathematiques) :tada:
+- 11/10/2024: Paper "Towards Resilience: Primal Large-scale Re-optimization" was **accepted** to Journal *Transportation Research Part E: Logistics and Transportation Review* :tada:
+- 03/07/2024: Research Project "*OCP Optimizes Its Supply Chain for Africa and The World*" has been selected as a **Winner** at the [*EURO Excellence in Practice Award 2024*](https://www.euro-online.org/web/pages/1667/previous-finalists-and-winners) :tada:
 
 ![Six Countries Five Continents](http://rqbmedi.github.io/images/MAP.png)
