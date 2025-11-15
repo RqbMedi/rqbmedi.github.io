@@ -1,26 +1,26 @@
 # main links links
 main:
 
-  - title: "Story"
-    url: /story/
-
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Teaching"
+    url: /teaching/ 
 
   - title: "Awards"
     url: /awards/
 
   - title: "Experience"
-    url: /others/
+    url: /others/   
 
-  - title: "Teaching"
-    url: /teaching/    
-        
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Service"
+    url: /markdown/
+
+  - title: "Story"
+    url: /story/
+
   - title: "Blogs"
     url: /portfolio/
-    
-  - title: "Others"
-    url: /markdown/
