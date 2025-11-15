@@ -9,7 +9,7 @@ author_profile: true
 1. Curriculum Vitae and Transcripts, 
 2. Briefly, why do you want to purse a Postdoc, Ph.D. Program, or Ph.D. Internship? 
 3. Briefly, why do you want to work with me? 
-4. What is your caree plan, e.g., Academia or Industry?
+4. Briefly, what is your caree plan, e.g., Academia or Industry?
 
 **Contact:** el-mehdi.er-raqabi [at] polymtl [dot] ca
 
