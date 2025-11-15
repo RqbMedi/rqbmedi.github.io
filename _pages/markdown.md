@@ -17,7 +17,9 @@ Organizing & Leadership
 
 Outreach & Volunteering
 ------
-- *OR@AFRICA Initiative:* Founding Member of OR@AFRICA, 2023
+- *OR@AFRICA Initiative:* Founder with Prof. Issmail El Hallaoui, following our participation in the IFORS Prize
+for OR in Development, Santiago, Chile, 2023. The initiative is still growing with more passionate OR Professors and
+Researchers joining, 2023-2025
 - *IVADO Student Intersectoral Committee:* Member in the IVADO Student Intersectoral Committee, 2023
 - *Canadian Operations Research Society:* Member in the Montreal Operations Research Student Chapter (MORSC), 2022
 - *Industrial Seminars:* Speaker at several seminars within the Industrial Engineering Departement of EMI, 2019-Present
