@@ -31,8 +31,8 @@ News
 ------
 - 14/11/2025: I will join *Laval University* as an **Assistant Professor** starting January 2026 🚀
 - 14/08/2025: Paper "A Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec" was **accepted** to Journal *IEEE Transactions on Power Systems* 🥳
-- 24/04/2025: My Thesis was **awarded** the GERAD 2024 Best Thesis Competition at GERAD 🎉
-- 07/03/2025: My Thesis was **awarded** the MAGI 2024 Best Thesis Prize at Polytechnique Montreal 🎉
+- 24/04/2025: I was **awarded** the GERAD 2024 Best Thesis Competition at GERAD 🎉
+- 07/03/2025: I was **awarded** the MAGI 2024 Best Thesis Prize at Polytechnique Montreal 🎉
 - 01/02/2025: I started my Postdoc at the Georgia Institute of Technology 🚀
 - 22/01/2025: Paper "OCP Optimizes Its Supply Chain for Africa" was **accepted** to Journal *INFORMS Journal on Applied Analytics* 🥳
 - 20/12/2024: I earned my Ph.D. today. The jury has recommended the thesis for the **Best Thesis Prize** at Polytechnique Montreal 🥳
