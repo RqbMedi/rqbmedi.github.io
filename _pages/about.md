@@ -13,7 +13,7 @@ Hello ! **I am hiring Postdocs, Ph.D. Students, and Ph.D. Interns**. Please emai
 
 **Contact:** el-mehdi.er-raqabi [at] polymtl [dot] ca
 
-Short Bio
+Academic Bio
 =====
 
 I am an Incoming Assistant Professor in Operations and Decision Systems at Faculty of Business Administration ([FSA DSO](https://www.fsa.ulaval.ca/faculte/departements-ecole/osd/)), Laval University. Prior to that, I spent one year as a Postdoctoral Researcher at the H. Milton Stewart School of Industrial and Systems Engineering ([ISyE](https://www.isye.gatech.edu/)) and the NSF AI Research Institute for Advances in Optimization ([AI4OPT](https://www.ai4opt.org/)), Georgia Institute of Technology, working with Prof. [Pascal Van Hentenryck](https://www.isye.gatech.edu/users/pascal-van-hentenryck).
