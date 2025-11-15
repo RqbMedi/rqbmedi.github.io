@@ -7,7 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Mehdi. I hold a Ph.D. in Operations Research from Polytechnique Montreal. My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
+Hello ! I am an Incoming Assistant Professor in Operations and Decision Systems at Faculty of Business Administration, Laval University. Prior to that, I spent one year as a Postdoctoral Researcher at the H. Milton Stewart School of Industrial and Systems Engineering ([ISyE](https://www.isye.gatech.edu/)) and the NSF AI Research Institute for Advances in Optimization ([AI4OPT](https://www.ai4opt.org/)), Gerogia Institute of Technology, working with Prof. [Pascal Van Hentenryck](https://www.isye.gatech.edu/users/pascal-van-hentenryck).
+
+I obtained my Ph.D. in Operations Research from the Mathematics and Industrial Engineering Department of Polytechnique Montreal ([Poly](https://www.polymtl.ca/)) and the Groupe d'Études et de Recherche en Analyse des Décisions ([GERAD](https://www.gerad.ca/en)), advised by Professors [El Hallaoui Issmaïl](https://www.polymtl.ca/expertises/el-hallaoui-issmail) & [Soumis François](https://www.polymtl.ca/expertises/soumis-francois). During my Ph.D. curriculum, I was a Visiting Scholar at the Faculty of Economics and Business of Katholieke Universiteit Leuven ([KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html)) in 2024, advised by Professor [Roel Leus](https://www.kuleuven.be/wieiswie/en/person/00004371), and Visiting Scholar at the Business School of Griffith University ([Griff](https://www.griffith.edu.au/)) in 2023, advised by Professor [Yong Wu](https://www.griffith.edu.au/griffith-business-school/departments/business-strategy-innovation/contact-us/staff/dr-yong-wu). Prior to Poly, I obtained an MBA from the International University of Japan ([IUJ](https://www.iuj.ac.jp/)) in 2019, advised by Professor [Li Wenkai](http://rmap.iuj.ac.jp/profile/en.1d04074599d978f5.html).
+
+
+My research focuses on primal techniques for large-scale optimization. Specifically, I have been exploring the full spectrum that goes from using optimization solvers to using optimization proxies. The full spectrum can be decomposed into four overlapping perspectives: *solver* (commercial, open-source, etc.), *metaheuristics* (local search, simulated annealing, etc.), *exact* (decompositions, branch-and-price, etc.), and *learning* (supervised, unsupervised, etc.).
+
+My Research has been generously supported by numerous organizations including: the U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), the Fonds de Recherche du Québec - Nature et Technologie ([FRQNT](https://frq.gouv.qc.ca/en/)), the Institut de Valorisation des Données ([IVADO](https://ivado.ca/en/)), the Mathematics of Information Technology and Complex Systems ([MITACS](https://www.mitacs.ca/)), and the Japan International Cooperation Agency([JICA](https://www.jica.go.jp/english/)).
+
+My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
+
+Contact: el-mehdi.er-raqabi [at] polymtl [dot] ca
 
 News
 =====
