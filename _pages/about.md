@@ -2,9 +2,6 @@
 permalink: /
 title: #"Personal Website"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Hello ! I am an Incoming Assistant Professor in Operations and Decision Systems at Faculty of Business Administration, Laval University. Prior to that, I spent one year as a Postdoctoral Researcher at the H. Milton Stewart School of Industrial and Systems Engineering ([ISyE](https://www.isye.gatech.edu/)) and the NSF AI Research Institute for Advances in Optimization ([AI4OPT](https://www.ai4opt.org/)), Gerogia Institute of Technology, working with Prof. [Pascal Van Hentenryck](https://www.isye.gatech.edu/users/pascal-van-hentenryck).
