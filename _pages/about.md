@@ -22,7 +22,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 3. Briefly, why do you want to work with me? 
 4. What is your caree plan, e.g., Academia or Industry?
 
-Contact: el-mehdi.er-raqabi [at] polymtl [dot] ca
+**Contact:** el-mehdi.er-raqabi [at] polymtl [dot] ca
 
 News
 =====
