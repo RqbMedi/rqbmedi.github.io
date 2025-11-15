@@ -50,7 +50,7 @@ Published & Under Review
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Under Review**
 
-**9. [Combining  Benders Decomposition and Column Generation for the Petrol Replenishment Problem with Inventory Management](https://www.gerad.ca/en/papers/G-2024-18)**
+**9. [A Benders-based Branch-Price-and-Cut Algorithm for the Multi-Period Petrol Station Replenishment Problem](https://www.gerad.ca/en/papers/G-2024-18)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
@@ -65,21 +65,17 @@ Published & Under Review
 Working Papers
 ------
 
-**12. The Stochastic Improved Primal Simplex**
- - Authors: **Er Raqabi El Mehdi**, El Fassi Mohamed, Leus Roel and El Hallaoui Issmaïl
-
-**13. The Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
+**12. A Rolling-Space Branch-and-Price Algorithm for the Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
  - Authors: **Er Raqabi El Mehdi**, Dalmeijer Kevin and Van Hentenryck Pascal
 
-**14. A Fairness Framework for Resource Substitution in Large Networks**
+**13. A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks**
  - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
-**15. Workshop Design with Flow Optimization and Robot Planning**
+**14. Integrated Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots**
  - Authors: Arnovi Moinuddin, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
+
+**15. When the LLM becomes the OR Expert: A Framework for Primal Large-Scale Re-optimizations**
+ - Authors: Tinghan Ye, Ved Mohan, **Er Raqabi El Mehdi** and Van Hentenryck Pascal 
 
 <br>
 (*: Equal Contribution)
-
- [comment]: <> (- **Selected** for Presentation at the *23rd Conference of the International Federation of Operational Research Societies, Santiago, Chile, on 10-14 July 2023*)
-
- [comment]: <> (**12. A Parallel Multi-Purpose Tuner for MIP Solvers** - Authors: **Er Raqabi El Mehdi**, Siwane Oussama, El Hallaoui Issmaïl and Beljadid Ahmed )
