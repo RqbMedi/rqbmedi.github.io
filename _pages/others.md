@@ -17,7 +17,6 @@ Incoming Assistant Professor (Full-Time), 2026 - Present
  - Faculty: Faculty of Business Administration (FSA)
  - Department: Operations and Decision Systems (DSO)
  - Labs: The Interuniversity Research Centre on Enterprise Networks, Logistics and Transportation (CIRRELT) and The Group for Research in Decision Analysis (GERAD)
- - Mentor: Prof. Pascal Van Hentenryck
  - Roles: Research, Teaching, Service
 
 **2. Georgia Institute of Technology (GaTech)**<br>
