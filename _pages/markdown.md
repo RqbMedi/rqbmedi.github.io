@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-I share here some extracurricular activities and pictures.
+I share here about service and extracurricular activities.
 
 Organizing & Leadership
 ------
