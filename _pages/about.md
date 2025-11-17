@@ -7,7 +7,7 @@ author_profile: true
 Hello ! **I am hiring Postdocs, Ph.D. Students, and Ph.D. Interns**. Please email the following: 
 
 1. Curriculum Vitae and Transcripts, 
-2. Briefly, why do you want to pursue a Postdoc training, Ph.D. Program, or Ph.D. Internship? 
+2. Briefly, why do you want to pursue a Postdoc, Ph.D. Program, or Ph.D. Internship? 
 3. Briefly, why do you want to work with me? 
 4. Briefly, what is your career plan, e.g., Academia or Industry?
 
