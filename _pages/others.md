@@ -21,7 +21,7 @@ Incoming Assistant Professor (Full-Time), 2026 - Present
 
 **2. Georgia Institute of Technology (GaTech)**<br>
 Postdoctoral Fellow (Full-Time), 2025
- - Faculty: H. Milton Stewart School of Industrial \& Systems Engineering
+ - Faculty: H. Milton Stewart School of Industrial & Systems Engineering
  - Lab: The NSF AI Research Institute for Advances in Optimization (AI4OPT)
  - Mentor: Prof. Pascal Van Hentenryck
  - Roles: Research (designing methodology and supervising students), Industry (visiting companies and designing SOWs), Teaching (from high school to graduate students), Service (popularizing science)
