@@ -71,7 +71,7 @@ Working Papers
 **12. A Rolling-Space Branch-and-Price Algorithm for the Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
  - Authors: **Er Raqabi El Mehdi**, Dalmeijer Kevin and Van Hentenryck Pascal
 
-**13. A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks**
+**13. [A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks](https://arxiv.org/abs/2511.18269)**
  - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
 **14. Integrated Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots**
