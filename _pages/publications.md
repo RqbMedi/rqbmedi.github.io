@@ -74,10 +74,13 @@ Working Papers
 **13. [A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks](https://arxiv.org/abs/2511.18269)**
  - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
-**14. Integrated Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots**
+**14. ID-PaS: Identity-Aware Predict-and-Search for General Mixed-Integer Linear Programs**
+ - Authors: Cai Junyang, **Er Raqabi El Mehdi**, Van Hentenryck Pascal and Dilkina Bistra
+
+**15. Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots: A Constraint Programming Approach**
  - Authors: Arnovi Moinuddin, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
-**15. When the LLM becomes the OR Expert: A Framework for Primal Large-Scale Re-optimizations**
+**16. When the LLM becomes the OR Expert: A Framework for Primal Large-Scale Re-optimization**
  - Authors: Tinghan Ye, Ved Mohan, **Er Raqabi El Mehdi** and Van Hentenryck Pascal 
 
 <br>
