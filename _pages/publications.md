@@ -53,29 +53,31 @@ Published & Under Review
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
  - **Under Review**
 
-**9. [A Benders-based Branch-Price-and-Cut Algorithm for the Multi-Period Petrol Station Replenishment Problem](https://www.gerad.ca/en/papers/G-2024-18)**
+**9. [A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks](https://arxiv.org/abs/2511.18269)**
+ - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
+ - **Under Review**
+
+**10. [ID-PaS: Identity-Aware Predict-and-Search for General Mixed-Integer Linear Programs](https://arxiv.org/abs/2512.10211)**
+ - Authors: Cai Junyang, **Er Raqabi El Mehdi**, Van Hentenryck Pascal and Dilkina Bistra
+ - **Under Review**
+
+**11. [A Benders-based Branch-Price-and-Cut Algorithm for the Multi-Period Petrol Station Replenishment Problem](https://www.gerad.ca/en/papers/G-2024-18)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
-**10. [The Petrol Station Replenishment Problem: A Case Study from West Africa](https://www.gerad.ca/en/papers/G-2024-19)**
+**12. [The Petrol Station Replenishment Problem: A Case Study from West Africa](https://www.gerad.ca/en/papers/G-2024-19)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
-**11. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
+**13. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
  - Master’s Thesis, International University of Japan, 2019
 
 Working Papers
 ------
 
-**12. A Rolling-Space Branch-and-Price Algorithm for the Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
+**14. A Rolling-Space Branch-and-Price Algorithm for the Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
  - Authors: **Er Raqabi El Mehdi**, Dalmeijer Kevin and Van Hentenryck Pascal
-
-**13. [A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks](https://arxiv.org/abs/2511.18269)**
- - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
-
-**14. [ID-PaS: Identity-Aware Predict-and-Search for General Mixed-Integer Linear Programs](https://arxiv.org/abs/2512.10211)**
- - Authors: Cai Junyang, **Er Raqabi El Mehdi**, Van Hentenryck Pascal and Dilkina Bistra
 
 **15. Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots: A Constraint Programming Approach**
  - Authors: Arnovi Moinuddin, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
