@@ -74,7 +74,7 @@ Working Papers
 **13. [A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks](https://arxiv.org/abs/2511.18269)**
  - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
-**14. ID-PaS: Identity-Aware Predict-and-Search for General Mixed-Integer Linear Programs**
+**14. [ID-PaS: Identity-Aware Predict-and-Search for General Mixed-Integer Linear Programs](https://arxiv.org/abs/2512.10211)**
  - Authors: Cai Junyang, **Er Raqabi El Mehdi**, Van Hentenryck Pascal and Dilkina Bistra
 
 **15. Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots: A Constraint Programming Approach**
