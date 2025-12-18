@@ -7,6 +7,12 @@ author_profile: true
 
 I enjoy teaching a lot. As Richard Feynman once said: "If you want to master something, teach it".
 
+Instructor
+------
+ **1. Laval University (ULaval)**<br>
+ - [GSO-1000](https://www.fsa.ulaval.ca/en/course/GSO-1000/) - Operations and Logistics, 4 hours/week for 15 weeks, Undegraduate (Winter 2026)
+
+
 Teaching Assistant
 ------
  **1. Polytechnique Montreal (Poly)**<br>
