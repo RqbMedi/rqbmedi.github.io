@@ -11,7 +11,7 @@ Hello ! **I am hiring Postdocs, Ph.D. Students, and Ph.D. Interns**. Please emai
 3. Briefly, why do you want to work with me? 
 4. Briefly, what is your career plan, e.g., Academia or Industry?
 
-**Contact:** el-mehdi.er-raqabi [at] polymtl [dot] ca
+**Contact:** el-mehdi.er-raqabi [at] fsa.ulaval [dot] ca
 
 Academic Bio
 ------
