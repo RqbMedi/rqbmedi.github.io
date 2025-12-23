@@ -13,7 +13,7 @@ Before reaching the current state, I have been diversifying my experiences betwe
 Academic Appointments
 ------
 **1. Laval University (ULaval)**<br>
-Incoming Assistant Professor (Full-Time), 2026 - Present
+Assistant Professor (Full-Time), 2026 - Present
  - Faculty: Faculty of Business Administration (FSA)
  - Department: Operations and Decision Systems (DSO)
  - Labs: The Interuniversity Research Centre on Enterprise Networks, Logistics and Transportation (CIRRELT) and The Group for Research in Decision Analysis (GERAD)
