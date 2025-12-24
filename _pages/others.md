@@ -10,7 +10,7 @@ redirect_from:
 Before reaching the current state, I have been diversifying my experiences between research and business.
   
 
-Academic Appointments
+Academic Appointment
 ------
 **1. Laval University (ULaval)**<br>
 Assistant Professor (Full-Time), 2026 - Present
@@ -24,7 +24,7 @@ Research Affiliate (Part-Time), 2026
  - Faculty: H. Milton Stewart School of Industrial & Systems Engineering
  - Lab: The NSF AI Research Institute for Advances in Optimization (AI4OPT)
  - Roles: Research, Teaching, Service
- 
+
 Postdoctoral Fellow (Full-Time), 2025
  - Faculty: H. Milton Stewart School of Industrial & Systems Engineering
  - Lab: The NSF AI Research Institute for Advances in Optimization (AI4OPT)
