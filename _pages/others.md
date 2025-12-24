@@ -24,6 +24,7 @@ Research Affiliate (Part-Time), 2026
  - Faculty: H. Milton Stewart School of Industrial & Systems Engineering
  - Lab: The NSF AI Research Institute for Advances in Optimization (AI4OPT)
  - Roles: Research, Teaching, Service
+ 
 Postdoctoral Fellow (Full-Time), 2025
  - Faculty: H. Milton Stewart School of Industrial & Systems Engineering
  - Lab: The NSF AI Research Institute for Advances in Optimization (AI4OPT)
