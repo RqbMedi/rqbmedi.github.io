@@ -31,7 +31,7 @@ My Curriculum Vitae can be found [here](http://rqbmedi.github.io/files/CV.pdf).
 News
 ------
 - 12/12/2025: I completed my Postodc at the Georgia Institute of Technology and will continue collaborations as a **Research Affiliate** starting January 2026 🚀
-- 14/11/2025: I will join *Laval University* as an **Assistant Professor** starting January 2026 🚀
+- 14/11/2025: I will join Laval University as an **Assistant Professor** starting January 2026 🚀
 - 14/08/2025: Paper "A Decomposition Matheuristic for the Transient Stability Constrained Unit Commitment at Hydro-Quebec" was **accepted** to Journal *IEEE Transactions on Power Systems* 🎉
 - 24/04/2025: I was **awarded** the GERAD 2024 Best Thesis Competition at GERAD 🎉
 - 07/03/2025: I was **awarded** the MAGI 2024 Best Thesis Prize at Polytechnique Montreal 🎉
