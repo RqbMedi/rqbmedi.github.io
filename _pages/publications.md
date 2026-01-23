@@ -57,7 +57,7 @@ Published & Under Review
  - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
  - **Under Review**
 
-**10. A Rolling-Space Branch-and-Price Algorithm for the Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
+**10. [A Rolling-Space Branch-and-Price Algorithm for the Multi-Compartment Vehicle Routing Problem with Multiple Time Windows](https://arxiv.org/abs/2601.16194)**
  - Authors: **Er Raqabi El Mehdi**, Dalmeijer Kevin and Van Hentenryck Pascal
  - **Under Review**
 
