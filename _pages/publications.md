@@ -69,35 +69,54 @@ Published & Under Review
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
-**13. [The Petrol Station Replenishment Problem: A Case Study from West Africa](https://www.gerad.ca/en/papers/G-2024-19)**
+**13. Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots: A Constraint Programming Approach**
+ - Authors: Arnovi Moinuddin, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
+
+**14. When the LLM becomes the OR Expert: A Framework for Primal Large-Scale Re-optimization**
+ - Authors: Tinghan Ye, Ved Mohan, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
+
+**15. [The Petrol Station Replenishment Problem: A Case Study from West Africa](https://www.gerad.ca/en/papers/G-2024-19)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
 
-**14. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
+**16. [Design of Electric Vehicles Charging Station Network](https://www.iuj.ac.jp/mlic/theses/thesis_details.cfm?ID=2B7015)**
  - Authors: **Er Raqabi El Mehdi** 
  - Master’s Thesis, International University of Japan, 2019
 
 Working Papers
 ------
 
-**15. Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots: A Constraint Programming Approach**
- - Authors: Arnovi Moinuddin, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
+**17. Fusing Backdoors, Machine Learning, and Optimization for Large-Scale Parametric Mixed-Integer Programs**
+ - Authors: **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
-**16. When the LLM becomes the OR Expert: A Framework for Primal Large-Scale Re-optimization**
- - Authors: Tinghan Ye, Ved Mohan, **Er Raqabi El Mehdi** and Van Hentenryck Pascal 
+**18. The Proxy Benders Decomposition**
+ - Authors: Changkun Guan, **Er Raqabi El Mehdi**, Tanneau Mathieu and Van Hentenryck Pascal
+  
+**19. Contextual Adaptive Large Neighborhood Search for the Last-Mile Pickup and Delivery Problem with Freshness Constraints**
+ - Authors: Maazouz Dina, Ouzineb Mohamed and **Er Raqabi El Mehdi**
+
+**20. Flexible Open Shop Scheduling with Freshness Requirements**
+ - Authors: Bouakir Mehdi and **Er Raqabi El Mehdi**
 
 <br>
 (*: Equal Contribution)
 
 Grants
 ====
+
+**[From Prevention to Recovery: Managing Wildfires in a Changing Climate](https://sshrc-crsh.canada.ca/funding-financement/nfrf-fnfr/exploration/2025/award_recipients-titulaires_subvention-eng.aspx)**
+ - Organization:  New Frontiers in Research Fund – Exploration (NFRF-E)
+ - Role: Co-applicant
+ - Amount: $250,000
+ - Period: 2026-2028
+
 **[Learning Decompositions: A Smart Approach to Large Problems](https://app.dimensions.ai/details/grant/grant.9716929)**
  - Organization: Fonds de Recherche du Québec – Nature et Technologies (FRQNT)
  - Role: Principal Investigator
  - Amount: $84,000
  - Period: 2021-2025
 
-**Decomposition Learning: An Intelligent Framework For Large Scale Optimization Problems**
+**[Decomposition Learning: An Intelligent Framework For Large Scale Optimization Problems](https://ivado.ca/en/research_community/\#laureats)**
  - Organization: Institute for Data Valorization (IVADO)
  - Role: Principal Investigator
  - Amount: $75,000
@@ -107,8 +126,14 @@ Supervision
 ====
 **Current Ph.D. Students**
  - Ved Mohan (Advisor: Pascal Van Hentenryck)
- - Moinuddin Arnovi (Advisor: Pascal Van Hentenryck)
- - Ye Joe (Advisor: Pascal Van Hentenryck)
+ - Arnovi Moinuddin (Advisor: Pascal Van Hentenryck)
+ - Joe (Advisor: Pascal Van Hentenryck)
+ - Changkun Guan (Advisor: Pascal Van Hentenryck) 
+ - Arnaud Deza (Advisor: Pascal Van Hentenryck)
+
+**Current Undergraduate Interns**
+ - Bouakir Mehdi (OCP Group, Morocco)    
+ - Dina Maazouz (INSEA, Morocco)
 
 **Former Ph.D. Interns**
  - Junyang Cai (AI4OPT, Gatech, April 2025)   
