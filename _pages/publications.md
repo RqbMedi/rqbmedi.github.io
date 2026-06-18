@@ -48,32 +48,34 @@ Published & Under Review
  - Authors: **Er Raqabi El Mehdi** and Li Wenkai 
  - **Published** in *Transportation Research Part D: Transport and Environment*, 2023
 
-**8. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
+**8. [ID-PAS+: Identity-Aware Predict-and-Search for Solving General Mixed-Integer Linear Programs](https://arxiv.org/abs/2512.10211)**
+ - Authors: Cai Junyang, **Er Raqabi El Mehdi**, Van Hentenryck Pascal and Dilkina Bistra
+ - **Published** in The 19th International Symposium on Combinatorial Search
+
+**9. [The Primal Benders Decomposition](https://www.gerad.ca/en/papers/G-2023-27)** 
  - Authors: **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Soumis François
  - Part of the Project "*OCP Optimizes its Supply Chain for Africa*"
- - **Under Review**
+ - **Under Revision**
 
-**9. [A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks](https://arxiv.org/abs/2511.18269)**
+**10. [A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks](https://arxiv.org/abs/2511.18269)**
  - Authors: Mohan Ved, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
- - **Under Review**
+ - **Under Revision**
 
-**10. [A Rolling-Space Branch-and-Price Algorithm for the Multi-Compartment Vehicle Routing Problem with Multiple Time Windows](https://arxiv.org/abs/2601.16194)**
+**11. [Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots and Zoning: A Constraint Programming Approach](https://arxiv.org/abs/2604.24483)**
+ - Authors: Arnovi Moinuddin, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
+ - **Under Revision**
+
+**12. [A Rolling-Space Branch-and-Price Algorithm for the Multi-Compartment Vehicle Routing Problem with Multiple Time Windows](https://arxiv.org/abs/2601.16194)**
  - Authors: **Er Raqabi El Mehdi**, Dalmeijer Kevin and Van Hentenryck Pascal
  - **Under Review**
 
-**11. [ID-PaS: Identity-Aware Predict-and-Search for General Mixed-Integer Linear Programs](https://arxiv.org/abs/2512.10211)**
- - Authors: Cai Junyang, **Er Raqabi El Mehdi**, Van Hentenryck Pascal and Dilkina Bistra
+**13. [Democratizing Large-Scale Re-Optimization with LLM-Guided Model Patches](https://arxiv.org/abs/2605.18692)**
+ - Authors: Tinghan Ye, Ved Mohan, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
  - **Under Review**
 
-**12. [A Benders-based Branch-Price-and-Cut Algorithm for the Multi-Period Petrol Station Replenishment Problem](https://www.gerad.ca/en/papers/G-2024-18)**
+**14. [A Benders-based Branch-Price-and-Cut Algorithm for the Multi-Period Petrol Station Replenishment Problem](https://www.gerad.ca/en/papers/G-2024-18)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
  - **Under Review**
-
-**13. Scheduling and Routing in the Flexible Job Shop with Heterogeneous Transbots: A Constraint Programming Approach**
- - Authors: Arnovi Moinuddin, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
-
-**14. When the LLM becomes the OR Expert: A Framework for Primal Large-Scale Re-optimization**
- - Authors: Tinghan Ye, Ved Mohan, **Er Raqabi El Mehdi** and Van Hentenryck Pascal
 
 **15. [The Petrol Station Replenishment Problem: A Case Study from West Africa](https://www.gerad.ca/en/papers/G-2024-19)**
  - Authors: Bani Abderrahman, **Er Raqabi El Mehdi**, El Hallaoui Issmaïl and Corréa Ayoub Insa
@@ -86,11 +88,11 @@ Published & Under Review
 Working Papers
 ------
 
-**17. Fusing Backdoors, Machine Learning, and Optimization for Large-Scale Parametric Mixed-Integer Programs**
- - Authors: **Er Raqabi El Mehdi** and Van Hentenryck Pascal
-
-**18. The Proxy Benders Decomposition**
+**17. [The Proxy Benders Decomposition](https://arxiv.org/abs/2606.07403)**
  - Authors: Changkun Guan, **Er Raqabi El Mehdi**, Tanneau Mathieu and Van Hentenryck Pascal
+
+**18. Fusing Backdoors, Machine Learning, and Optimization for Large-Scale Parametric Mixed-Integer Programs**
+ - Authors: **Er Raqabi El Mehdi** and Van Hentenryck Pascal
   
 **19. Contextual Adaptive Large Neighborhood Search for the Last-Mile Pickup and Delivery Problem with Freshness Constraints**
  - Authors: Maazouz Dina, Ouzineb Mohamed and **Er Raqabi El Mehdi**
@@ -114,7 +116,7 @@ Grants
  - Organization: Fonds de Recherche du Québec – Nature et Technologies (FRQNT)
  - Role: Principal Investigator
  - Amount: $84,000
- - Period: 2021-2025
+ - Period: 2021-2024
 
 **[Decomposition Learning: An Intelligent Framework For Large Scale Optimization Problems](https://ivado.ca/en/research_community/\#laureats)**
  - Organization: Institute for Data Valorization (IVADO)
